@@ -1,0 +1,136 @@
+[
+	/* template: at least 20 city names
+	also 10 spy names
+	
+	// victory types: Scientific, Diplomatic, Cultural, Domination
+	
+	{
+		"name": "EmpireName",
+		"leaderName": "LeaderName",
+		"adjective": ["Adjective"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType":"Scientific",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [85, 85, 85],
+		"innerColor": [126, 192, 253],
+		"favoredReligion": "ReligionName",
+		"uniqueName": "UniqueName",
+		"uniques": ["Uniques Go Here"],
+		"cities": [
+			"Capital",
+			"City1",
+			"City2",
+			"City3",
+			"City4",
+			"City5",
+			"City6",
+			"City7",
+			"City8",
+			"City9",
+			"City10",
+			"City11",
+			"City12",
+			"City13",
+			"City14",
+			"City15",
+			"City16",
+			"City17",
+			"City18",
+			"AndSoOn"
+		],
+		"spyNames": [
+			"Spy1",
+			"Spy2",
+			"Spy3",
+			"Spy4",
+			"Spy5",
+			"Spy6",
+			"Spy7",
+			"Spy8",
+			"Spy9",
+			"Spy10"
+		]
+	},
+	*/
+
+	{
+		"name": "Helios Megapolity",
+		"leaderName": "Hypatia Athanasios",
+		"adjective": ["Helios"],
+		"startBias": ["Coastal"],
+		"preferredVictoryType":"Cultural",
+
+		"startIntroPart1": "Yassou, Representative Hypatia Athanasios of the Helios Megapolity. Your people have survived the fall of the Greek Republic in the chaos of Old Earth by pooling your resources into one domed megacity. This allows you to prosper while avoiding the ecological mistakes of Old Earth - and soon enough, your burgeoning nation-state managed to develop far enough to send their own seed-ship across the stars.",
+		"startIntroPart2": "Hypatia, your citizens desire a new megacity to call home. Will you develop a glorious city in this new world? Can you build a colony that stands the test of time?",
+
+		"declaringWar": "The glory that is the Megacity demands more living space - your living space.",
+		"attacked": "Go ahead and crash your army onto my walls!",
+		"defeated": "Look at my city, ye mighty, and weep - for it is unlike any other.",
+		"introduction": "Have you come to gaze at the wonder that is the Helios Megapolity? I am its representative, Hypatia Athanasios.",
+
+		"neutralHello": "Ah, if it isn't the neighbor. What news do you bring of the world outside?",
+		"hateHello": "Tell me why should I risk such indignation by talking to you?",
+
+		"tradeRequest": "Our glorious city is willing to trade its goods for yours.",
+
+		"outerColor": [4, 72, 189],
+		"innerColor": [236, 250, 110],
+		"favoredReligion": "Solar Mass",
+		"uniqueName": "Glorious Ecumenopolis",
+		"uniques": [
+			"Can only create 6 [Dome Settler] units",
+			"Can make districts around a Dome City",
+			"[+1 Culture] from [Urban Improvement] tiles [in all cities]",
+			"[Infantry] units gain the [Urban Warfare] promotion",
+			"[Stealth Infantry] units gain the [Urban Warfare] promotion",
+			"[Close Range Mech] units gain the [Urban Warfare] promotion"
+		],
+		"cities": [
+			"Helios Megalopolis",
+			"Athens Dome",
+			"Knossos Dome",
+			"Sparta Dome",
+			"Thebes Dome",
+			"Corinth Dome",
+			"Troy Dome",
+			"Municipal Dome 7",
+			"Municipal Dome 8",
+			"Municipal Dome 9",
+			"Municipal Dome 10",
+			"Municipal Dome 11",
+			"Municipal Dome 12",
+			"Municipal Dome 13",
+			"Municipal Dome 14",
+			"Municipal Dome 15",
+			"Municipal Dome 16",
+			"Municipal Dome 17",
+			"Municipal Dome 18",
+			"Municipal Dome 19"
+		],
+		"spyNames": [
+			"Ileana",
+			"Eneas",
+			"Aleta",
+			"Hector",
+			"Penelope",
+			"Nicodemus",
+			"Selene",
+			"Pyyrhus",
+			"Tryphosa",
+			"Vangelis"
+		]
+	},
+]
