@@ -1,0 +1,44 @@
+[
+	//// Mechs
+	{
+		"name": "Mnewer Attack Mecha",
+		"replaces": "Assault Mecha",
+		"uniqueTo": "Shamsy Electric Technologies",
+		"unitType": "Close Range Mech",
+		"movement": 4,
+		"strength": 50,
+		"cost": 450,
+		"requiredTech": "Combat Mechas",
+		//"requiredResource": "Titanium",
+		//"upgradesTo": "Anti-Air Buggy",
+		//"obsoleteTech": "Chivalry",
+		"uniques": [
+			"Mech",
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[+50]% Strength <vs [Armored] units>",
+			"[+10]% Strength <when attacking> <with [20]% chance>",
+			"Double movement in [Desert]",
+			"Only available <in cities with a [Mechanized Unit Facility]>",
+			"Consumes [2] [Titanium]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Ignore terrain cost"],
+		"hurryCostModifier": 20,
+		"attackSound": "RapidLaser2",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Mnewer Attack Mecha",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Shamsy Electric Technologies' mainline mech, the Mnewer is equipped with not only SET's signature electric weaponry, but also a desert mobility system that allows them to move faster on deserts."
+			}
+		]
+	}
+]
