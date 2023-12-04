@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Electric Armory",
+		"uniques": [
+			"[+50]% Strength <vs [Infantry] units> <when attacking>",
+			"[+50]% Strength <vs [Stealth Infantry] units> <when attacking>",
+			"[+10]% Strength <vs [Mech] units> <when attacking>"
+		],
+		"row": 124,
+        	"column": 0
+	},
+]
