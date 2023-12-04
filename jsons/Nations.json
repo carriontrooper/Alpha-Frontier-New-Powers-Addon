@@ -133,4 +133,69 @@
 			"Vangelis"
 		]
 	},
+	{
+		"name": "Shamsy Electric Technologies",
+		"leaderName": "Seth Al-Muhtariq",
+		"adjective": ["SET"],
+		"startBias": ["Desert"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": "Greetings, CEO Seth Al-Muhtariq of Shamsy Electric Technologies! Your company is among the few that stood in the wake of Old Earth's collapse. During that tumultuous time you've capitalized on your company's technological advantage to secure enough facilities and land for your people to survive. You've heard talk of other nations and corporations moving off-world - and the prestige and riches abound in those exoplanets. It was then that you decided to direct Shamsy Electric Technologies toward the stars.",
+		"startIntroPart2": "Seth, this exoplanet is ripe for you to harvest and reign upon. Will you seize the prestige of conquering this unruly planet? Can you build a colony that stands the test of time?",
+
+		"declaringWar": "Peace ill suits me. Your colony would have to do to satisfy my thirst.",
+		"attacked": "Who do you think you are, to throw sand in my face?! Prepare for retribution!",
+		"defeated": "Ahh, so I was the one blinded by the sun...",
+		"introduction": "I am Seth Al-Muhtariq. Behind me is the full might of Shamsy Electric Technologies. Dare you go against my will?",
+
+		"neutralHello": "You are in the presence of Seth and the Shamsy Electric Technologies. Speak.",
+		"hateHello": "So you do have the guts to contact me after all.",
+
+		"tradeRequest": "I am in the mood for some trade, let us keep it that way.",
+
+		"outerColor": [230, 129, 21],
+		"innerColor": [245, 199, 47],
+		"favoredReligion": "Astral Pantheon",
+		"uniqueName": "Desert Storm",
+		"uniques": [
+			"Receive triple Gold from Barbarian encampments and pillaging Cities",
+			"[+10]% Strength <in [Desert] tiles> <for [Armored] units>",
+			"[Mech] units gain the [Electric Armory] promotion",
+			"[Infantry] units gain the [Electric Armory] promotion"
+		],
+		"cities": [
+			"Avaris",
+			"Naqada",
+			"Shedet",
+			"Thinis",
+			"Sumenu",
+			"Nubt",
+			"Sebennytos",
+			"Taremu",
+			"Raqote",
+			"Kom Ombo",
+			"Djerty",
+			"Medamud",
+			"Repyt",
+			"Faiyum",
+			"Hut-Waret",
+			"Semabehdet",
+			"Pachnamunis",
+			"Khito",
+			"Setennu",
+			"Athribis"
+		],
+		"spyNames": [
+			"Oua",
+			"Snau",
+			"Somnt",
+			"Ftoou",
+			"Tiou",
+			"Soou",
+			"Sasf",
+			"Smoun",
+			"Psis",
+			"Met"
+		]
+	}
 ]
