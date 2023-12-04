@@ -91,7 +91,7 @@
 		"favoredReligion": "Solar Mass",
 		"uniqueName": "Glorious Ecumenopolis",
 		"uniques": [
-			"Can only create 6 [Dome Settler] units",
+			"Can only create 6 [Dome Colonizer] units",
 			"Can make districts around a Dome City",
 			"Starts with [Hab-Domes]",
 			"[+1 Culture] from [Urban Improvement] tiles [in all cities]",
