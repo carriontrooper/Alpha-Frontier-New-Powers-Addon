@@ -1,0 +1,375 @@
+[
+	{
+		"name": "Solar Farm",
+		"uniqueTo": "Shamsy Electric Technologies",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium"
+		],
+		"gold": 1,
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Computing",
+		"uniques": [
+			"[+1 Gold] <after discovering [Offworld Industries]>",
+			"[+1 Production] <in [Desert] tiles>",
+			"[+1 Production] <in [Snow] tiles>",
+			"[+1 Production] <after discovering [Satellite Networks]>",
+			"[+1 Gold] <after discovering [Lasers]>",
+			"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+
+			{
+				"Separator": true
+			},
+			{
+				"text": "Vast arrays of solar panels absorbing the sun's rays for energy, and occasionally as a backup information network."
+			}
+		]
+	},
+	
+	// Helios domes
+	{
+		"name": "First Ring Residential Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"gold": 1,
+		"production": 1,
+		"culture": 1,
+		"science": 1,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"1st Ring District",
+			"Can only be built on [Land] tiles <within [1] tiles of a [City center]>",
+			//"[+1 Gold] <after discovering [Offworld Industries]>",
+			"[+1 Faith] <after founding a Pantheon>",
+			//"[+1 Production] <in [Desert] tiles>",
+			//"[+1 Production] <in [Snow] tiles>",
+			//"[+1 Production] <after discovering [Satellite Networks]>",
+			//"[+1 Gold] <after discovering [Lasers]>",
+			//"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Houses and various urban amenities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "First Ring Coastal Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Coast"
+		],
+		"gold": 1,
+		"production": 1,
+		"culture": 1,
+		"food": 1,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"1st Ring District",
+			"Can only be built on [Water] tiles <within [1] tiles of a [City center]>",
+			//"[+1 Gold] <after discovering [Offworld Industries]>",
+			"[+1 Faith] <after founding a Pantheon>",
+			//"[+1 Production] <in [Desert] tiles>",
+			//"[+1 Production] <in [Snow] tiles>",
+			//"[+1 Production] <after discovering [Satellite Networks]>",
+			//"[+1 Gold] <after discovering [Lasers]>",
+			//"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Houses and various urban amenities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "First Ring Hydroponic Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"food": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"1st Ring District",
+			"Can only be built on [Land] tiles <within [1] tiles of a [City center]>",
+			"[+1 Gold] <after discovering [Offworld Industries]>",
+			//"[+1 Production] <in [Desert] tiles>",
+			//"[+1 Production] <in [Snow] tiles>",
+			//"[+1 Production] <after discovering [Satellite Networks]>",
+			//"[+1 Gold] <after discovering [Lasers]>",
+			//"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Houses and various urban amenities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "First Ring Industrial Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"production": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"1st Ring District",
+			"Can only be built on [Land] tiles <within [1] tiles of a [City center]>",
+			"[+1 Gold] <after discovering [Offworld Industries]>",
+			//"[+1 Production] <in [Desert] tiles>",
+			//"[+1 Production] <in [Snow] tiles>",
+			//"[+1 Production] <after discovering [Satellite Networks]>",
+			//"[+1 Gold] <after discovering [Lasers]>",
+			//"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Houses and various urban amenities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "First Ring Economic Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"gold": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"1st Ring District",
+			"Can only be built on [Land] tiles <within [1] tiles of a [City center]>",
+			"[+1 Gold] <after discovering [Offworld Industries]>",
+			//"[+1 Production] <in [Desert] tiles>",
+			//"[+1 Production] <in [Snow] tiles>",
+			//"[+1 Production] <after discovering [Satellite Networks]>",
+			//"[+1 Gold] <after discovering [Lasers]>",
+			//"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Houses and various urban amenities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "First Ring Research Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"science": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"1st Ring District",
+			"Can only be built on [Land] tiles <within [1] tiles of a [City center]>",
+			"[+1 Gold] <after discovering [Offworld Industries]>",
+			//"[+1 Production] <in [Desert] tiles>",
+			//"[+1 Production] <in [Snow] tiles>",
+			//"[+1 Production] <after discovering [Satellite Networks]>",
+			//"[+1 Gold] <after discovering [Lasers]>",
+			//"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Houses and various urban amenities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	
+	{
+		"name": "Second Ring Residential Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"gold": 2,
+		"production": 2,
+		"culture": 2,
+		"science": 2,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"2nd Ring District",
+			"Can only be built on [Land] tiles <within [2] tiles of a [City center]> <with [1] to [2] neighboring [1st Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [City center] tiles>",
+			"[+1 Gold] <after discovering [Offworld Industries]>",
+			"[+1 Faith] <after founding a Pantheon>",
+			//"[+1 Production] <in [Desert] tiles>",
+			//"[+1 Production] <in [Snow] tiles>",
+			//"[+1 Production] <after discovering [Satellite Networks]>",
+			//"[+1 Gold] <after discovering [Lasers]>",
+			//"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Houses and various urban amenities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	}
+]
