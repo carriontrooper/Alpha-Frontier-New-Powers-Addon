@@ -225,7 +225,9 @@
 		"favoredReligion": "Astral Pantheon",
 		"uniqueName": "Orbital Harvesters",
 		"uniques": [
-			"Uniques Go Here"
+			"Starts with [Xenobiology]",
+			"[-20]% construction time for [Agricultural] improvements",
+			"[+1 Food] from all [Orbital] buildings <after discovering [Offworld Industries]>"
 		],
 		"cities": [
 			"Saturn-9",
