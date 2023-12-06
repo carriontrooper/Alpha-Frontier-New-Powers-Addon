@@ -91,9 +91,9 @@
 		"favoredReligion": "Solar Mass",
 		"uniqueName": "Glorious Ecumenopolis",
 		"uniques": [
-			"Can only create 6 [Dome Colonizer] units",
+			"Cannot build [Colonizer] units",
 			"Can make districts around a Dome City",
-			"Starts with [Hab-Domes]",
+			//"Starts with [Hab-Domes]",
 			"[+1 Culture] from [Urban Improvement] tiles [in all cities]",
 			"[Infantry] units gain the [Urban Warfare] promotion",
 			"[Stealth Infantry] units gain the [Urban Warfare] promotion",
@@ -101,25 +101,26 @@
 		],
 		"cities": [
 			"Helios Megalopolis",
+			//just in case...
 			"Athens Dome",
 			"Knossos Dome",
 			"Sparta Dome",
 			"Thebes Dome",
 			"Corinth Dome",
 			"Troy Dome",
-			"Municipal Dome 7",
-			"Municipal Dome 8",
-			"Municipal Dome 9",
-			"Municipal Dome 10",
-			"Municipal Dome 11",
-			"Municipal Dome 12",
-			"Municipal Dome 13",
-			"Municipal Dome 14",
-			"Municipal Dome 15",
-			"Municipal Dome 16",
-			"Municipal Dome 17",
-			"Municipal Dome 18",
-			"Municipal Dome 19"
+			"Argos Dome",
+			"Delphi Dome",
+			"Syracuse Dome",
+			"Aegina Dome",
+			"Rhodes Dome",
+			"Eretria Dome",
+			"Elis Dome",
+			"Thessaly Dome",
+			"Lesbos Dome",
+			"Miletus Dome",
+			"Ephesus Dome",
+			"Aigeion Dome",
+			"Tanagra Dome"
 		],
 		"spyNames": [
 			"Ileana",
@@ -197,6 +198,68 @@
 			"Smoun",
 			"Psis",
 			"Met"
+		]
+	},
+	{
+		"name": "Saturnus Federation",
+		"leaderName": "LeaderName",
+		"adjective": ["Saturnus"],
+		"startBias": ["Hills"],
+		"preferredVictoryType":"Scientific",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [85, 85, 85],
+		"innerColor": [126, 192, 253],
+		"favoredReligion": "Astral Pantheon",
+		"uniqueName": "Orbital Harvesters",
+		"uniques": [
+			"Uniques Go Here"
+		],
+		"cities": [
+			"Saturn-9",
+			"Dione-Gridr",
+			"Kiviuq-8",
+			"Albiorix-Enceladus",
+			"Bebhionn-Rhea",
+			"Tarvos-Trigaranus",
+			"Hyrrokkin-Mimas",
+			"Prometheus-Jarnsaxa",
+			"Hati-Skoll",
+			"Daphnis-Suttungr",
+			"Mundilfari-7",
+			"Bestla-6",
+			"Iapetus-5",
+			"Angrboda-4",
+			"Gunnlod-3",
+			"Geirrod-Calypso",
+			"Farbauti-2",
+			"Methone-Loge",
+			"Anthe-Kari",
+			"Pallene-Thrymr"
+		],
+		"spyNames": [
+			"Ett",
+			"To",
+			"Tre",
+			"Fire",
+			"Fem",
+			"Seks",
+			"Sjv",
+			"Atte",
+			"Ni",
+			"Ti"
 		]
 	}
 ]
