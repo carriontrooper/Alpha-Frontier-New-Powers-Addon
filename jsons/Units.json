@@ -1,4 +1,9 @@
 [
+	/*
+	To-do:
+	Enceladus-class Survey Satellite (replaces Survey Satellite)
+	*/
+	
 	//// Mechs
 	{
 		"name": "Mnewer Attack Mecha",
@@ -41,6 +46,7 @@
 			}
 		]
 	},
+	/*
 	{
 		"name": "Dome Colonizer",
 		"unitType": "Civilian",
@@ -56,12 +62,6 @@
 		],
 		"hurryCostModifier": 20,
 		"civilopediaText": [
-			/*
-			{
-				"extraImage": "TileSets/FantasyHex/Units/Colonizer",
-				"imageSize": 64
-			},
-			*/
 			{
 				"Separator": true
 			},
@@ -70,4 +70,5 @@
 			}
 		]
 	},
+	*/
 ]
