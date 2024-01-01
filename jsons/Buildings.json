@@ -6,4 +6,34 @@ Metallic hydrogen Synthesis
 ammonia crystallizer
 +3 Food and +2 Production
 	*/
+	
+	{
+		"name": "Metallic Hydrogen Synthesis Plant",
+		"uniqueTo": "Saturnus Federation",
+		"maintenance": 1,
+		"production": 3,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Science] from every [Engineer]"],
+		"requiredTech": "Synthetic Materials",
+		"civilopediaText": [
+			{
+				"text": "These facilities produce metallic hydrogen, a superconductor that could be used in industrial machinery."
+			}
+		]
+	},
+	{
+		"name": "Ammonia Crystallizer",
+		"uniqueTo": "Saturnus Federation",
+		"maintenance": 1,
+		"food": 3,
+		"production": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Phostlite] tiles [in this city]"],
+		"requiredTech": "Offworld Industries",
+		"civilopediaText": [
+			{
+				"text": "This facility readily crystallizes ammonia from recycled life support waste - among other sources - to be used in the production of fertilizer."
+			}
+		]
+	}
 ]
