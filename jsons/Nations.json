@@ -91,8 +91,9 @@
 		"favoredReligion": "Solar Mass",
 		"uniqueName": "Glorious Ecumenopolis",
 		"uniques": [
-			"Cannot build [Colonizer] units",
-			"Can make districts around a Dome City",
+			//"Cannot build [Colonizer] units",
+			"Comment [Can only build 6 Dome Colonizer units]",
+			"Comment [Can make districts around a Dome City]",
 			//"Starts with [Hab-Domes]",
 			"[+1 Culture] from [Urban Improvement] tiles [in all cities]",
 			"[Infantry] units gain the [Urban Warfare] promotion",
@@ -208,7 +209,7 @@
 		"preferredVictoryType":"Scientific",
 
 		"startIntroPart1": "Hail, Speaker Kauko Korpela. Since you've split from the warlike ways of the Einherjar Diktat, the moons of Saturn have become a refuge for you and other similar groups. Fueled by a desire for mutual protection, the Saturnus Federation was formed. Utilizing cutting-edge hydroponics to create viable orbital habitats, your people thrived under the rings of Saturn. Following this orbital prosperity, a seed ship to colonize other worlds is inevitable.",
-		"startIntroPart2": "Kauko, for too long your people have been living on the edge. Will you plant the seeds of science in this world? Can you build a colony that stands the test of time?",
+		"startIntroPart2": "Kauko, for too long your people have been living on the edges. Will you plant the seeds of science in this world? Can you build a colony that stands the test of time?",
 
 		"declaringWar": "Your territories seem ripe for the harvest. Please, let us in.",
 		"attacked": "Time to reap what you sow.",
