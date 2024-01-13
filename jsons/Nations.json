@@ -221,8 +221,8 @@
 
 		"tradeRequest": "Would you like to trade with what we've harvested?.",
 
-		"outerColor": [85, 85, 85],
-		"innerColor": [126, 192, 253],
+		"outerColor": [27, 92, 40],
+		"innerColor": [161, 237, 236],
 		"favoredReligion": "Astral Pantheon",
 		"uniqueName": "Orbital Harvesters",
 		"uniques": [
