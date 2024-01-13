@@ -45,6 +45,7 @@
 	},
 	
 	// Helios domes
+	// first ring
 	{
 		"name": "First Ring Residential Dome",
 		"uniqueTo": "Helios Megapolity",
@@ -88,12 +89,15 @@
 			"[+1 Production] <after adopting [Worker Unions]>",
 			"[+1 Production] <in [Hills] tiles>",
 			"[+1 Production] <with [1] to [5] neighboring [Industrial Dome] tiles>",
+			"[+1 Production] <in cities with a [Intercity Hyperloop]>",
 			"[+1 Culture] <after discovering [Colonial Culture]>",
 			"[+1 Culture] <after discovering [Net Culture]>",
 			"[+1 Culture] <after discovering [Posthumanist Culture]>",
 			"[+1 Culture] <after adopting [Promotion of the Arts]>",
 			"[+1 Culture] <after adopting [Social Media]>",
 			"[+1 Culture] <with [1] to [5] neighboring [Urban Improvement] tiles>",
+			"[+1 Culture] <in cities with a [Virtual Cultural Space]>",
+			"[+1 Culture] <in cities with a [Massive Interactive Virtual Epic]>",
 			"[+1 Science] <after discovering [Artificial Intelligence]>",
 			"[+1 Science] <after discovering [Mind Linking]>",
 			"[+1 Science] <after adopting [Scientific Management]>",
@@ -106,8 +110,10 @@
 			"[+1 Faith] <after adopting [Urban Spiritualism]>",
 			"[+1 Faith] <after adopting [Virtual Enlightenment]>",
 			"[+1 Faith] <with [1] to [5] neighboring [Residential Dome] tiles> <after founding a Pantheon>",
+			"[+1 Faith] <in cities with a [Religious Broadcast Center]>",
 			"[+1 Happiness] <in cities with a [Infrastructure 2.0]>",
-			//"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
+			"[+1 Happiness] <in cities with a [Sim Life Servers]>",
+			"[+1 Happiness] <in cities with a [Public Teleportation]>",
 			"Removes removable features when built",
 			"Pillaging this improvement yields approximately [+5 Gold]"
 		],
@@ -144,7 +150,6 @@
 			"Urban Improvement",
 			"Coastal Dome",
 			"Can only be built on [Water] tiles <within [1] tiles of a [City center]>",
-			//"[+1 Gold] <after discovering [Offworld Industries]>",
 			"[+1 Food] <after adopting [Feed the World]>",
 			"[+1 Food] <after adopting [Eco Harmony]>",
 			"[+1 Food] <with [1] to [5] neighboring [{Organic} {Water}] tiles>",
@@ -164,19 +169,25 @@
 			"[+1 Production] <after adopting [Worker Unions]>",
 			"[+1 Production] <with [1] to [5] neighboring [{Mineral} {Water}] tiles>",
 			"[+1 Production] <with [1] to [5] neighboring [Industrial Dome] tiles>",
+			"[+1 Production] <in cities with a [Intercity Hyperloop]>",
 			"[+1 Culture] <after discovering [Colonial Culture]>",
 			"[+1 Culture] <after discovering [Net Culture]>",
 			"[+1 Culture] <after discovering [Posthumanist Culture]>",
 			"[+1 Culture] <after adopting [Promotion of the Arts]>",
 			"[+1 Culture] <after adopting [Social Media]>",
 			"[+1 Culture] <with [1] to [5] neighboring [Urban Improvement] tiles>",
+			"[+1 Culture] <in cities with a [Virtual Cultural Space]>",
+			"[+1 Culture] <in cities with a [Massive Interactive Virtual Epic]>",
 			"[+1 Faith] <after founding a Pantheon>",
 			"[+1 Faith] <after founding a religion>",
 			"[+1 Faith] <after enhancing a religion>",
 			"[+1 Faith] <after adopting [Urban Spiritualism]>",
 			"[+1 Faith] <after adopting [Virtual Enlightenment]>",
 			"[+1 Faith] <with [1] to [5] neighboring [Residential Dome] tiles> <after founding a Pantheon>",
-			//"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
+			"[+1 Faith] <in cities with a [Religious Broadcast Center]>",
+			"[+1 Happiness] <in cities with a [Infrastructure 2.0]>",
+			"[+1 Happiness] <in cities with a [Sim Life Servers]>",
+			"[+1 Happiness] <in cities with a [Public Teleportation]>",
 			"Removes removable features when built",
 			"Pillaging this improvement yields approximately [+5 Gold]"
 		],
@@ -231,7 +242,6 @@
 			"[+1 Food] <in [Plains] tiles>",
 			"[+1 Food] <in [Grassland] tiles>",
 			"[+1 Food] <in [Mycelium] tiles>",
-			//"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
 			"Removes removable features when built",
 			"Pillaging this improvement yields approximately [+5 Gold]"
 		],
@@ -282,7 +292,8 @@
 			"[+1 Production] <in [Hills] tiles>",
 			"[+1 Production] <with [1] to [5] neighboring [Industrial Dome] tiles>",
 			"[+1 Production] <with [1] to [5] neighboring [Mineral] tiles>",
-			//"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
+			"[+1 Production] <in cities with a [Remote Fabricator]>",
+			"[+1 Production] <in cities with a [Printer Array Foundry]>",
 			"Removes removable features when built",
 			"Pillaging this improvement yields approximately [+5 Gold]"
 		],
@@ -338,6 +349,9 @@
 			"[+1 Gold] <in cities with a [Stock Exchange]>",
 			"[+1 Gold] <in cities with a [Cryptomining Servers]>",
 			"[+1 Gold] <in cities with a [Adaptive Tax Network]>",
+			"[+1 Gold] <in cities with a [Quantum Economic Services]>",
+			"[+1 Gold] <in cities with a [Central Economic Database]>",
+			"[+1 Gold] <in cities with a [Commercial Entertainment Complex]>",
 			"Removes removable features when built",
 			"Pillaging this improvement yields approximately [+5 Gold]"
 		],
@@ -417,7 +431,8 @@
 			}
 		]
 	},
-	
+
+	// second ring
 	{
 		"name": "Second Ring Residential Dome",
 		"uniqueTo": "Helios Megapolity",
@@ -445,13 +460,48 @@
 			"Residential Dome",
 			"Can only be built on [Land] tiles <within [2] tiles of a [City center]> <with [1] to [2] neighboring [1st Ring District] tiles>",
 			"Cannot be built on [All] tiles <with [1] to [6] neighboring [City center] tiles>",
-			"[+1 Gold] <after discovering [Offworld Industries]>",
+			"[+1 Food] <after adopting [Feed the World]>",
+			"[+1 Food] <after adopting [Eco Harmony]>",
+			"[+1 Gold] <after discovering [Colony Administration]>",
+			"[+1 Gold] <after discovering [Cryptocurrency]>",
+			"[+1 Gold] <after discovering [Metaverse]>",
+			"[+1 Gold, +1 Science] <after discovering [Quantum Computing]>",
+			"[+1 Gold] <after adopting [Neo-Materialism]>",
+			"[+1 Gold] <after adopting [Cyber Entrepreneurs]>",
+			"[+1 Gold] <after adopting [Monetization Laws]>",
+			"[+1 Gold] <with [1] to [5] neighboring [Economic Dome] tiles>",
+			"[+1 Production, +1 Science] <after discovering [Info Networks]>",
+			"[+1 Production] <after discovering [Exoskeletons]>",
+			"[+1 Production] <after discovering [Mind-Machine Interface]>",
+			"[+1 Production] <after adopting [Religious Community]>",
+			"[+1 Production] <after adopting [Worker Unions]>",
+			"[+1 Production] <in [Hills] tiles>",
+			"[+1 Production] <with [1] to [5] neighboring [Industrial Dome] tiles>",
+			"[+1 Production] <in cities with a [Intercity Hyperloop]>",
+			"[+1 Culture] <after discovering [Colonial Culture]>",
+			"[+1 Culture] <after discovering [Net Culture]>",
+			"[+1 Culture] <after discovering [Posthumanist Culture]>",
+			"[+1 Culture] <after adopting [Promotion of the Arts]>",
+			"[+1 Culture] <after adopting [Social Media]>",
+			"[+1 Culture] <with [1] to [5] neighboring [Urban Improvement] tiles>",
+			"[+1 Culture] <in cities with a [Virtual Cultural Space]>",
+			"[+1 Culture] <in cities with a [Massive Interactive Virtual Epic]>",
+			"[+1 Science] <after discovering [Artificial Intelligence]>",
+			"[+1 Science] <after discovering [Mind Linking]>",
+			"[+1 Science] <after adopting [Scientific Management]>",
+			"[+1 Science] <after adopting [Archive Nodes]>",
+			"[+1 Science] <after adopting [Peer-to-Peer Review]>",
+			"[+1 Science] <with [1] to [5] neighboring [Research Dome] tiles>",
 			"[+1 Faith] <after founding a Pantheon>",
-			//"[+1 Production] <in [Desert] tiles>",
-			//"[+1 Production] <in [Snow] tiles>",
-			//"[+1 Production] <after discovering [Satellite Networks]>",
-			//"[+1 Gold] <after discovering [Lasers]>",
-			//"[+2 Production] <in cities with a [Orbital Solar Reflector]>",
+			"[+1 Faith] <after founding a religion>",
+			"[+1 Faith] <after enhancing a religion>",
+			"[+1 Faith] <after adopting [Urban Spiritualism]>",
+			"[+1 Faith] <after adopting [Virtual Enlightenment]>",
+			"[+1 Faith] <with [1] to [5] neighboring [Residential Dome] tiles> <after founding a Pantheon>",
+			"[+1 Faith] <in cities with a [Religious Broadcast Center]>",
+			"[+1 Happiness] <in cities with a [Infrastructure 2.0]>",
+			"[+1 Happiness] <in cities with a [Sim Life Servers]>",
+			"[+1 Happiness] <in cities with a [Public Teleportation]>",
 			"Removes removable features when built",
 			"Pillaging this improvement yields approximately [+5 Gold]"
 		],
@@ -468,6 +518,810 @@
 			},
 			{
 				"text": "Houses and various urban amenities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "Second Ring Coastal Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Coast"
+		],
+		"gold": 1,
+		"production": 1,
+		"culture": 1,
+		"food": 1,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"2nd Ring District",
+			"Urban Improvement",
+			"Coastal Dome",
+			"Can only be built on [Water] tiles <within [2] tiles of a [City center]> <with [1] to [2] neighboring [1st Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [City center] tiles>",
+			"[+1 Food] <after adopting [Feed the World]>",
+			"[+1 Food] <after adopting [Eco Harmony]>",
+			"[+1 Food] <with [1] to [5] neighboring [{Organic} {Water}] tiles>",
+			"[+1 Food] <with [1] to [5] neighboring [Coastal Dome] tiles>",
+			"[+1 Gold] <after discovering [Colony Administration]>",
+			"[+1 Gold] <after discovering [Cryptocurrency]>",
+			"[+1 Gold] <after discovering [Metaverse]>",
+			"[+1 Gold, +1 Science] <after discovering [Quantum Computing]>",
+			"[+1 Gold] <after adopting [Neo-Materialism]>",
+			"[+1 Gold] <after adopting [Cyber Entrepreneurs]>",
+			"[+1 Gold] <after adopting [Monetization Laws]>",
+			"[+1 Gold] <with [1] to [5] neighboring [Economic Dome] tiles>",
+			"[+1 Production, +1 Science] <after discovering [Info Networks]>",
+			"[+1 Production] <after discovering [Exoskeletons]>",
+			"[+1 Production] <after discovering [Mind-Machine Interface]>",
+			"[+1 Production] <after adopting [Religious Community]>",
+			"[+1 Production] <after adopting [Worker Unions]>",
+			"[+1 Production] <with [1] to [5] neighboring [{Mineral} {Water}] tiles>",
+			"[+1 Production] <with [1] to [5] neighboring [Industrial Dome] tiles>",
+			"[+1 Production] <in cities with a [Intercity Hyperloop]>",
+			"[+1 Culture] <after discovering [Colonial Culture]>",
+			"[+1 Culture] <after discovering [Net Culture]>",
+			"[+1 Culture] <after discovering [Posthumanist Culture]>",
+			"[+1 Culture] <after adopting [Promotion of the Arts]>",
+			"[+1 Culture] <after adopting [Social Media]>",
+			"[+1 Culture] <with [1] to [5] neighboring [Urban Improvement] tiles>",
+			"[+1 Culture] <in cities with a [Virtual Cultural Space]>",
+			"[+1 Culture] <in cities with a [Massive Interactive Virtual Epic]>",
+			"[+1 Faith] <after founding a Pantheon>",
+			"[+1 Faith] <after founding a religion>",
+			"[+1 Faith] <after enhancing a religion>",
+			"[+1 Faith] <after adopting [Urban Spiritualism]>",
+			"[+1 Faith] <after adopting [Virtual Enlightenment]>",
+			"[+1 Faith] <with [1] to [5] neighboring [Residential Dome] tiles> <after founding a Pantheon>",
+			"[+1 Faith] <in cities with a [Religious Broadcast Center]>",
+			"[+1 Happiness] <in cities with a [Infrastructure 2.0]>",
+			"[+1 Happiness] <in cities with a [Sim Life Servers]>",
+			"[+1 Happiness] <in cities with a [Public Teleportation]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Houses, fishing ports, aquaculture, docks and various urban amenities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "Second Ring Hydroponic Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"food": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"2nd Ring District",
+			"Urban Improvement",
+			"Hydroponic Dome",
+			"Can only be built on [Land] tiles <within [2] tiles of a [City center]> <with [1] to [2] neighboring [1st Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [City center] tiles>",
+			"[+1 Food] <after discovering [Genetics]>",
+			"[+1 Food] <after discovering [Cloning]>",
+			"[+1 Food] <after discovering [Genetic Hybridization]>",
+			"[+1 Food] <after discovering [Designer Lifeforms]>",
+			"[+1 Food] <after adopting [Feed the World]>",
+			"[+1 Food] <after adopting [Eco Harmony]>",
+			"[+1 Food] <with [1] to [5] neighboring [Flora] tiles>",
+			"[+1 Food] <with [1] to [5] neighboring [Phostlite] tiles>",
+			"[+1 Food] <with [1] to [5] neighboring [Algae] tiles>",
+			"[+1 Food] <in [Plains] tiles>",
+			"[+1 Food] <in [Grassland] tiles>",
+			"[+1 Food] <in [Mycelium] tiles>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Towering hydroponics full of nourishment, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "Second Ring Industrial Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"production": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"2nd Ring District",
+			"Urban Improvement",
+			"Industrial Dome",
+			"Can only be built on [Land] tiles <within [2] tiles of a [City center]> <with [1] to [2] neighboring [1st Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [City center] tiles>",
+			"[+1 Production] <after discovering [Crust Fracking]>",
+			"[+1 Production] <after discovering [Exoskeletons]>",
+			"[+1 Production] <after discovering [Mind-Machine Interface]>",
+			"[+1 Production] <after adopting [Religious Community]>",
+			"[+1 Production] <after adopting [Worker Unions]>",
+			"[+1 Production] <in [Hills] tiles>",
+			"[+1 Production] <with [1] to [5] neighboring [Industrial Dome] tiles>",
+			"[+1 Production] <with [1] to [5] neighboring [Mineral] tiles>",
+			"[+1 Production] <in cities with a [Remote Fabricator]>",
+			"[+1 Production] <in cities with a [Printer Array Foundry]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Factories, 3D printers and other industrial facilities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "Second Ring Economic Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"gold": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"2nd Ring District",
+			"Urban Improvement",
+			"Economic Dome",
+			"Can only be built on [Land] tiles <within [2] tiles of a [City center]> <with [1] to [2] neighboring [1st Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [City center] tiles>",
+			"[+1 Gold] <after discovering [Cryptocurrency]>",
+			"[+1 Gold] <after discovering [Metaverse]>",
+			"[+1 Gold] <after adopting [Neo-Materialism]>",
+			"[+1 Gold] <after adopting [Cyber Entrepreneurs]>",
+			"[+1 Gold] <after adopting [Monetization Laws]>",
+			"[+1 Gold] <in [Desert] tiles>",
+			"[+1 Gold] <with [1] to [5] neighboring [Luxury resource] tiles>",
+			"[+1 Gold] <with [1] to [5] neighboring [Gemlike] tiles>",
+			"[+1 Gold] <with [1] to [5] neighboring [Gold Ore] tiles>",
+			"[+1 Gold] <in cities with a [Megamall]>",
+			"[+1 Gold] <in cities with a [Stock Exchange]>",
+			"[+1 Gold] <in cities with a [Cryptomining Servers]>",
+			"[+1 Gold] <in cities with a [Adaptive Tax Network]>",
+			"[+1 Gold] <in cities with a [Quantum Economic Services]>",
+			"[+1 Gold] <in cities with a [Central Economic Database]>",
+			"[+1 Gold] <in cities with a [Commercial Entertainment Complex]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Commercial shops, financial offices and cryptocurrency servers, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "Second Ring Research Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"science": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"2nd Ring District",
+			"Urban Improvement",
+			"Research Dome",
+			"Can only be built on [Land] tiles <within [2] tiles of a [City center]> <with [1] to [2] neighboring [1st Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [City center] tiles>",
+			"[+1 Science] <after discovering [Info Networks]>",
+			"[+1 Science] <after discovering [Genetics]>",
+			"[+1 Science] <after discovering [Cybernetics]>",
+			"[+1 Science] <after discovering [Quantum Theory]>",
+			"[+1 Science] <after discovering [Quantum Computing]>",
+			"[+1 Science] <after discovering [Artificial Intelligence]>",
+			"[+1 Science] <after discovering [Mind Linking]>",
+			"[+1 Science] <after discovering [Exotic Quantum Physics]>",
+			"[+1 Science] <after adopting [Scientific Management]>",
+			"[+1 Science] <after adopting [Archive Nodes]>",
+			"[+1 Science] <after adopting [Peer-to-Peer Review]>",
+			"[+1 Science] <in [Mycelium] tiles>",
+			"[+1 Science] <with [1] to [5] neighboring [Research Dome] tiles>",
+			"[+1 Science] <in cities with a [Specimen Storage]>",
+			"[+1 Science] <in cities with a [Genetic Laboratory]>",
+			"[+1 Science] <in cities with a [Colonial University]>",
+			"[+1 Science] <in cities with a [Research Satellite]>",
+			"[+1 Science] <in cities with a [Particle Collider]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Laboratories, scientific databases and educational facilities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "Second Ring Fortress Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		//"production": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"2nd Ring District",
+			"Urban Improvement",
+			"Fortress Dome",
+			"Gives a defensive bonus of [50]%",
+			"Can only be built on [Land] tiles <within [2] tiles of a [City center]> <with [1] to [2] neighboring [1st Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [City center] tiles>",
+			"Gives a defensive bonus of [5]% <after discovering [Next-Gen Armaments]>",
+			"Gives a defensive bonus of [5]% <after discovering [Composite Armor]>",
+			"Gives a defensive bonus of [5]% <after discovering [Stasis Fields]>",
+			"Gives a defensive bonus of [5]% <after adopting [Militant Sect]>",
+			"Gives a defensive bonus of [5]% <after adopting [Stalwart Protectors]>",
+			"Gives a defensive bonus of [5]% <in [Hills] tiles>",
+			"Gives a defensive bonus of [1]% <with [1] to [5] neighboring [Fortress Dome] tiles>",
+			"Gives a defensive bonus of [5]% <in cities with a [Military Base]>",
+			"Gives a defensive bonus of [5]% <in cities with a [Deep Shelter]>",
+			"Gives a defensive bonus of [5]% <in cities with a [Stasis Defenses]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Barracks, bunkers and military facilities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	
+	// third ring
+	{
+		"name": "Third Ring Residential Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"gold": 2,
+		"production": 2,
+		"culture": 2,
+		"science": 2,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"3rd Ring District",
+			"Urban Improvement",
+			"Residential Dome",
+			"Can only be built on [Land] tiles <within [3] tiles of a [City center]> <with [1] to [2] neighboring [2nd Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [1st Ring District] tiles>",
+			"[+1 Food] <after adopting [Feed the World]>",
+			"[+1 Food] <after adopting [Eco Harmony]>",
+			"[+1 Gold] <after discovering [Colony Administration]>",
+			"[+1 Gold] <after discovering [Cryptocurrency]>",
+			"[+1 Gold] <after discovering [Metaverse]>",
+			"[+1 Gold, +1 Science] <after discovering [Quantum Computing]>",
+			"[+1 Gold] <after adopting [Neo-Materialism]>",
+			"[+1 Gold] <after adopting [Cyber Entrepreneurs]>",
+			"[+1 Gold] <after adopting [Monetization Laws]>",
+			"[+1 Gold] <with [1] to [5] neighboring [Economic Dome] tiles>",
+			"[+1 Production, +1 Science] <after discovering [Info Networks]>",
+			"[+1 Production] <after discovering [Exoskeletons]>",
+			"[+1 Production] <after discovering [Mind-Machine Interface]>",
+			"[+1 Production] <after adopting [Religious Community]>",
+			"[+1 Production] <after adopting [Worker Unions]>",
+			"[+1 Production] <in [Hills] tiles>",
+			"[+1 Production] <with [1] to [5] neighboring [Industrial Dome] tiles>",
+			"[+1 Production] <in cities with a [Intercity Hyperloop]>",
+			"[+1 Culture] <after discovering [Colonial Culture]>",
+			"[+1 Culture] <after discovering [Net Culture]>",
+			"[+1 Culture] <after discovering [Posthumanist Culture]>",
+			"[+1 Culture] <after adopting [Promotion of the Arts]>",
+			"[+1 Culture] <after adopting [Social Media]>",
+			"[+1 Culture] <with [1] to [5] neighboring [Urban Improvement] tiles>",
+			"[+1 Culture] <in cities with a [Virtual Cultural Space]>",
+			"[+1 Culture] <in cities with a [Massive Interactive Virtual Epic]>",
+			"[+1 Science] <after discovering [Artificial Intelligence]>",
+			"[+1 Science] <after discovering [Mind Linking]>",
+			"[+1 Science] <after adopting [Scientific Management]>",
+			"[+1 Science] <after adopting [Archive Nodes]>",
+			"[+1 Science] <after adopting [Peer-to-Peer Review]>",
+			"[+1 Science] <with [1] to [5] neighboring [Research Dome] tiles>",
+			"[+1 Faith] <after founding a Pantheon>",
+			"[+1 Faith] <after founding a religion>",
+			"[+1 Faith] <after enhancing a religion>",
+			"[+1 Faith] <after adopting [Urban Spiritualism]>",
+			"[+1 Faith] <after adopting [Virtual Enlightenment]>",
+			"[+1 Faith] <with [1] to [5] neighboring [Residential Dome] tiles> <after founding a Pantheon>",
+			"[+1 Faith] <in cities with a [Religious Broadcast Center]>",
+			"[+1 Happiness] <in cities with a [Infrastructure 2.0]>",
+			"[+1 Happiness] <in cities with a [Sim Life Servers]>",
+			"[+1 Happiness] <in cities with a [Public Teleportation]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Houses and various urban amenities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "Third Ring Coastal Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Coast"
+		],
+		"gold": 1,
+		"production": 1,
+		"culture": 1,
+		"food": 1,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"3rd Ring District",
+			"Urban Improvement",
+			"Coastal Dome",
+			"Can only be built on [Water] tiles <within [3] tiles of a [City center]> <with [1] to [2] neighboring [2nd Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [1st Ring District] tiles>",
+			"[+1 Food] <after adopting [Feed the World]>",
+			"[+1 Food] <after adopting [Eco Harmony]>",
+			"[+1 Food] <with [1] to [5] neighboring [{Organic} {Water}] tiles>",
+			"[+1 Food] <with [1] to [5] neighboring [Coastal Dome] tiles>",
+			"[+1 Gold] <after discovering [Colony Administration]>",
+			"[+1 Gold] <after discovering [Cryptocurrency]>",
+			"[+1 Gold] <after discovering [Metaverse]>",
+			"[+1 Gold, +1 Science] <after discovering [Quantum Computing]>",
+			"[+1 Gold] <after adopting [Neo-Materialism]>",
+			"[+1 Gold] <after adopting [Cyber Entrepreneurs]>",
+			"[+1 Gold] <after adopting [Monetization Laws]>",
+			"[+1 Gold] <with [1] to [5] neighboring [Economic Dome] tiles>",
+			"[+1 Production, +1 Science] <after discovering [Info Networks]>",
+			"[+1 Production] <after discovering [Exoskeletons]>",
+			"[+1 Production] <after discovering [Mind-Machine Interface]>",
+			"[+1 Production] <after adopting [Religious Community]>",
+			"[+1 Production] <after adopting [Worker Unions]>",
+			"[+1 Production] <with [1] to [5] neighboring [{Mineral} {Water}] tiles>",
+			"[+1 Production] <with [1] to [5] neighboring [Industrial Dome] tiles>",
+			"[+1 Production] <in cities with a [Intercity Hyperloop]>",
+			"[+1 Culture] <after discovering [Colonial Culture]>",
+			"[+1 Culture] <after discovering [Net Culture]>",
+			"[+1 Culture] <after discovering [Posthumanist Culture]>",
+			"[+1 Culture] <after adopting [Promotion of the Arts]>",
+			"[+1 Culture] <after adopting [Social Media]>",
+			"[+1 Culture] <with [1] to [5] neighboring [Urban Improvement] tiles>",
+			"[+1 Culture] <in cities with a [Virtual Cultural Space]>",
+			"[+1 Culture] <in cities with a [Massive Interactive Virtual Epic]>",
+			"[+1 Faith] <after founding a Pantheon>",
+			"[+1 Faith] <after founding a religion>",
+			"[+1 Faith] <after enhancing a religion>",
+			"[+1 Faith] <after adopting [Urban Spiritualism]>",
+			"[+1 Faith] <after adopting [Virtual Enlightenment]>",
+			"[+1 Faith] <with [1] to [5] neighboring [Residential Dome] tiles> <after founding a Pantheon>",
+			"[+1 Faith] <in cities with a [Religious Broadcast Center]>",
+			"[+1 Happiness] <in cities with a [Infrastructure 2.0]>",
+			"[+1 Happiness] <in cities with a [Sim Life Servers]>",
+			"[+1 Happiness] <in cities with a [Public Teleportation]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Houses, fishing ports, aquaculture, docks and various urban amenities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "Third Ring Hydroponic Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"food": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"3rd Ring District",
+			"Urban Improvement",
+			"Hydroponic Dome",
+			"Can only be built on [Land] tiles <within [3] tiles of a [City center]> <with [1] to [2] neighboring [2nd Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [1st Ring District] tiles>",
+			"[+1 Food] <after discovering [Genetics]>",
+			"[+1 Food] <after discovering [Cloning]>",
+			"[+1 Food] <after discovering [Genetic Hybridization]>",
+			"[+1 Food] <after discovering [Designer Lifeforms]>",
+			"[+1 Food] <after adopting [Feed the World]>",
+			"[+1 Food] <after adopting [Eco Harmony]>",
+			"[+1 Food] <with [1] to [5] neighboring [Flora] tiles>",
+			"[+1 Food] <with [1] to [5] neighboring [Phostlite] tiles>",
+			"[+1 Food] <with [1] to [5] neighboring [Algae] tiles>",
+			"[+1 Food] <in [Plains] tiles>",
+			"[+1 Food] <in [Grassland] tiles>",
+			"[+1 Food] <in [Mycelium] tiles>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Towering hydroponics full of nourishment, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "Third Ring Industrial Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"production": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"3rd Ring District",
+			"Urban Improvement",
+			"Industrial Dome",
+			"Can only be built on [Land] tiles <within [3] tiles of a [City center]> <with [1] to [2] neighboring [2nd Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [1st Ring District] tiles>",
+			"[+1 Production] <after discovering [Crust Fracking]>",
+			"[+1 Production] <after discovering [Exoskeletons]>",
+			"[+1 Production] <after discovering [Mind-Machine Interface]>",
+			"[+1 Production] <after adopting [Religious Community]>",
+			"[+1 Production] <after adopting [Worker Unions]>",
+			"[+1 Production] <in [Hills] tiles>",
+			"[+1 Production] <with [1] to [5] neighboring [Industrial Dome] tiles>",
+			"[+1 Production] <with [1] to [5] neighboring [Mineral] tiles>",
+			"[+1 Production] <in cities with a [Remote Fabricator]>",
+			"[+1 Production] <in cities with a [Printer Array Foundry]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Factories, 3D printers and other industrial facilities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "Third Ring Economic Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"gold": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"3rd Ring District",
+			"Urban Improvement",
+			"Economic Dome",
+			"Can only be built on [Land] tiles <within [3] tiles of a [City center]> <with [1] to [2] neighboring [2nd Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [1st Ring District] tiles>",
+			"[+1 Gold] <after discovering [Cryptocurrency]>",
+			"[+1 Gold] <after discovering [Metaverse]>",
+			"[+1 Gold] <after adopting [Neo-Materialism]>",
+			"[+1 Gold] <after adopting [Cyber Entrepreneurs]>",
+			"[+1 Gold] <after adopting [Monetization Laws]>",
+			"[+1 Gold] <in [Desert] tiles>",
+			"[+1 Gold] <with [1] to [5] neighboring [Luxury resource] tiles>",
+			"[+1 Gold] <with [1] to [5] neighboring [Gemlike] tiles>",
+			"[+1 Gold] <with [1] to [5] neighboring [Gold Ore] tiles>",
+			"[+1 Gold] <in cities with a [Megamall]>",
+			"[+1 Gold] <in cities with a [Stock Exchange]>",
+			"[+1 Gold] <in cities with a [Cryptomining Servers]>",
+			"[+1 Gold] <in cities with a [Adaptive Tax Network]>",
+			"[+1 Gold] <in cities with a [Quantum Economic Services]>",
+			"[+1 Gold] <in cities with a [Central Economic Database]>",
+			"[+1 Gold] <in cities with a [Commercial Entertainment Complex]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Commercial shops, financial offices and cryptocurrency servers, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "Third Ring Research Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		"science": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"3rd Ring District",
+			"Urban Improvement",
+			"Research Dome",
+			"Can only be built on [Land] tiles <within [3] tiles of a [City center]> <with [1] to [2] neighboring [2nd Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [1st Ring District] tiles>",
+			"[+1 Science] <after discovering [Info Networks]>",
+			"[+1 Science] <after discovering [Genetics]>",
+			"[+1 Science] <after discovering [Cybernetics]>",
+			"[+1 Science] <after discovering [Quantum Theory]>",
+			"[+1 Science] <after discovering [Quantum Computing]>",
+			"[+1 Science] <after discovering [Artificial Intelligence]>",
+			"[+1 Science] <after discovering [Mind Linking]>",
+			"[+1 Science] <after discovering [Exotic Quantum Physics]>",
+			"[+1 Science] <after adopting [Scientific Management]>",
+			"[+1 Science] <after adopting [Archive Nodes]>",
+			"[+1 Science] <after adopting [Peer-to-Peer Review]>",
+			"[+1 Science] <in [Mycelium] tiles>",
+			"[+1 Science] <with [1] to [5] neighboring [Research Dome] tiles>",
+			"[+1 Science] <in cities with a [Specimen Storage]>",
+			"[+1 Science] <in cities with a [Genetic Laboratory]>",
+			"[+1 Science] <in cities with a [Colonial University]>",
+			"[+1 Science] <in cities with a [Research Satellite]>",
+			"[+1 Science] <in cities with a [Particle Collider]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Laboratories, scientific databases and educational facilities, enclosed within a dome, sprawling out of the core of Helios."
+			}
+		]
+	},
+	{
+		"name": "Third Ring Fortress Dome",
+		"uniqueTo": "Helios Megapolity",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Snow",
+			"Tundra",
+			"Forest",
+			"Jungle",
+			"Flood plains",
+			"Mycelium",
+			"Hills"
+		],
+		//"production": 5,
+		"turnsToBuild": 10,
+		"techRequired": "Hab-Domes",
+		"uniques": [
+			"3rd Ring District",
+			"Urban Improvement",
+			"Fortress Dome",
+			"Gives a defensive bonus of [50]%",
+			"Can only be built on [Land] tiles <within [3] tiles of a [City center]> <with [1] to [2] neighboring [2nd Ring District] tiles>",
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [1st Ring District] tiles>",
+			"Gives a defensive bonus of [5]% <after discovering [Next-Gen Armaments]>",
+			"Gives a defensive bonus of [5]% <after discovering [Composite Armor]>",
+			"Gives a defensive bonus of [5]% <after discovering [Stasis Fields]>",
+			"Gives a defensive bonus of [5]% <after adopting [Militant Sect]>",
+			"Gives a defensive bonus of [5]% <after adopting [Stalwart Protectors]>",
+			"Gives a defensive bonus of [5]% <in [Hills] tiles>",
+			"Gives a defensive bonus of [1]% <with [1] to [5] neighboring [Fortress Dome] tiles>",
+			"Gives a defensive bonus of [5]% <in cities with a [Military Base]>",
+			"Gives a defensive bonus of [5]% <in cities with a [Deep Shelter]>",
+			"Gives a defensive bonus of [5]% <in cities with a [Stasis Defenses]>",
+			"Removes removable features when built",
+			"Pillaging this improvement yields approximately [+5 Gold]"
+		],
+		"shortcutKey": "T",
+		"civilopediaText": [
+			/*
+			{
+				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"imageSize": 64
+			},
+			*/
+			{
+				"Separator": true
+			},
+			{
+				"text": "Barracks, bunkers and military facilities, enclosed within a dome, sprawling out of the core of Helios."
 			}
 		]
 	}
