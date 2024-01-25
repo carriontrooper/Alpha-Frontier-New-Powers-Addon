@@ -1,0 +1,15 @@
+[
+	//hidden resources
+	{
+		"name": "Dome Colonizer Count",
+		"resourceType": "Strategic",
+		//"revealedBy": "Orbital Deterrents",
+		"uniques": [
+			"Stockpiled",
+			"Cannot be traded",
+			"Not shown on world screen",
+			"Will not be displayed in Civilopedia",
+			"Excluded from map editor"
+		]
+	}
+]
