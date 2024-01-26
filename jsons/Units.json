@@ -72,5 +72,42 @@
 			}
 		]
 	},
+
+	{
+		"name": "Enceladus Satellite",
+		"unitType": "Satellite",
+		"replaces": "Survey Satellite",
+		"uniqueTo": "Saturnus Federation",
+		"movement": 0,
+		"strength": 8,
+		"rangedStrength": 8,
+		"range": 1,
+		"interceptRange": 0,
+		"cost": 100,
+		"requiredTech": "Payload Delivery",
+		//"requiredResource": "Titanium",
+		//"upgradesTo": "Laser Satellite",
+		//"obsoleteTech": "Radar",
+		"uniques": [
+			"[+4] Sight",
+			"[-100]% Strength <vs [All] units>",
+			"[-100]% Strength <vs cities>",
+			"[+20]% Strength bonus for [Wounded] units within [3] tiles",
+			"All adjacent units heal [+5] HP when healing",
+			"Can see invisible [Stealth Infantry] units",
+			"Can see invisible [Submarine] units",
+			"Can see invisible [Xeno Stealth Water] units",
+			"Only available <in cities with a [Orbital Launch Facility]>",
+			"Consumes [1] [Titanium]",
+			"Only available <with [Titanium]>",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "shot",
+		"civilopediaText": [
+			{
+				"text": "This modified survey satellite is also equipped with a medical network relay, which speeds up recovery of nearby units."
+			}
+		]
+	},
 	
 ]
