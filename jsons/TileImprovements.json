@@ -114,6 +114,8 @@
 			"[+1 Happiness] <in cities with a [Infrastructure 2.0]>",
 			"[+1 Happiness] <in cities with a [Sim Life Servers]>",
 			"[+1 Happiness] <in cities with a [Public Teleportation]>",
+			"Gives a defensive bonus of [+10]% <after discovering [Next-Gen Armaments]> <with [1] to [5] neighboring [2nd Ring District] tiles>",
+			"Gives a defensive bonus of [+10]% <after discovering [Stasis Fields]> <with [1] to [5] neighboring [2nd Ring District] tiles>",
 			"Removes removable features when built",
 			"Pillaging this improvement yields approximately [+5 Gold]"
 		],
@@ -188,6 +190,8 @@
 			"[+1 Happiness] <in cities with a [Infrastructure 2.0]>",
 			"[+1 Happiness] <in cities with a [Sim Life Servers]>",
 			"[+1 Happiness] <in cities with a [Public Teleportation]>",
+			"Gives a defensive bonus of [+10]% <after discovering [Next-Gen Armaments]> <with [1] to [5] neighboring [2nd Ring District] tiles>",
+			"Gives a defensive bonus of [+10]% <after discovering [Stasis Fields]> <with [1] to [5] neighboring [2nd Ring District] tiles>",
 			"Removes removable features when built",
 			"Pillaging this improvement yields approximately [+5 Gold]"
 		],
@@ -503,6 +507,8 @@
 			"[+1 Happiness] <in cities with a [Infrastructure 2.0]>",
 			"[+1 Happiness] <in cities with a [Sim Life Servers]>",
 			"[+1 Happiness] <in cities with a [Public Teleportation]>",
+			"Gives a defensive bonus of [+10]% <after discovering [Next-Gen Armaments]> <with [1] to [5] neighboring [3rd Ring District] tiles>",
+			"Gives a defensive bonus of [+10]% <after discovering [Stasis Fields]> <with [1] to [5] neighboring [3rd Ring District] tiles>",
 			"Removes removable features when built",
 			"Pillaging this improvement yields approximately [+5 Gold]"
 		],
@@ -578,6 +584,8 @@
 			"[+1 Happiness] <in cities with a [Infrastructure 2.0]>",
 			"[+1 Happiness] <in cities with a [Sim Life Servers]>",
 			"[+1 Happiness] <in cities with a [Public Teleportation]>",
+			"Gives a defensive bonus of [+10]% <after discovering [Next-Gen Armaments]> <with [1] to [5] neighboring [3rd Ring District] tiles>",
+			"Gives a defensive bonus of [+10]% <after discovering [Stasis Fields]> <with [1] to [5] neighboring [3rd Ring District] tiles>",
 			"Removes removable features when built",
 			"Pillaging this improvement yields approximately [+5 Gold]"
 		],
