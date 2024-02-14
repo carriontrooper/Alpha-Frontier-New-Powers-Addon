@@ -109,5 +109,45 @@
 			}
 		]
 	},
+	{
+		"name": "Flying Arsenal",
+		"replaces": "Heavy Heli Gunship",
+		"uniqueTo": "NPUF",
+		"unitType": "Helicopter",
+		"movement": 4,
+		"range": 1,
+		"strength": 80,
+		"rangedStrength": 80,
+		"cost": 480,
+		"requiredTech": "Nanotechnology",
+		//"requiredResource": "Ulframite",
+		"uniques": [
+			"No defensive terrain bonus",
+			"Can move after attacking",
+			"All tiles cost 1 movement",
+			"Ignores Zone of Control",
+			"Unable to capture cities",
+			"Can carry [3] [Cruise Missile] units",
+			"Can carry [1] [ICBM] units",
+			"[+1] Sight",
+			"[+100]% Strength <vs cities>",
+			"[+100]% Strength <vs [Armored] units>",
+			"[+100]% Strength <vs [Mech] units>",
+			"[-33]% Strength <vs [Air] units>",
+			"Consumes [2] [Ulframite]",
+			"Only available <with [Ulframite]>",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "bombing",
+		"civilopediaText": [
+			{
+				"Separator": true
+			},
+			{
+				"text": "Instead of a heavy helicopter gunship, the Front uses a different aircraft as their heavy close air support aircraft - a heavily armed and armored VTOL bomber, earning the name Flying Arsenal by its sheer amount of ordnance it can carry."
+			}
+		]
+	}
 	
 ]

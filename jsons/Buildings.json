@@ -35,5 +35,183 @@ ammonia crystallizer
 				"text": "This facility readily crystallizes ammonia from recycled life support waste - among other sources - to be used in the production of fertilizer."
 			}
 		]
-	}
+	},
+	{
+		"name": "Military Contractor Office",
+		"replaces": "Colonial Patrol Station",
+		"uniqueTo": "Astria Triumvirate",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": [
+			"Military",
+			"New [Military] units start with [15] Experience [in this city]",
+			"Destroyed when the city is captured",
+			"[Gold] cost of purchasing [Military] units [-30]% <in this city>"
+		],
+		"requiredBuilding": "Frontier Armory",
+		"requiredTech": "Military Ballistics",
+		"civilopediaText": [
+			{
+				"text": "Semi-state-owned military contractors is an element of Triumvirate's defense force, where military personnels and assets may be purchased at a more favorable price from the contractors."
+			}
+		]
+	},
+	{
+		"name": "Digital Economy",
+		"replaces": "Cryptomining Servers",
+		"uniqueTo": "Astria Triumvirate",
+		"gold": 5,
+		"specialistSlots": { "Merchant": 3 },
+		"percentStatBonus": { "gold": 5 },
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Provides [1] [Digital Storage Space]",
+			"[+10]% Production when constructing [Production] buildings [in this city]",
+			"[+10]% Production when constructing [Gold] buildings [in all cities]"
+		],
+		"requiredTech": "Cryptocurrency",
+		"civilopediaText": [
+			{
+				"text": "Highly digitized economy played a crucial role in the high-speed economy of the Astria Triumvirate. With minimal delay of information and interaction, development of industry and commerce can be highly accelerated."
+			}
+		]
+	},
+	{
+		"name": "Conscription Quarters",
+		"replaces": "Frontier Armory",
+		"uniqueTo": "NPUF",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": [
+			"Military",
+			"Prefab",
+			"New [Infantry] units start with [15] Experience [in this city]",
+			"New [Stealth Infantry] units start with [15] Experience [in this city]",
+			"[+30]% Production when constructing [Infantry] units [in this city]",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Frontier Armaments",
+		"civilopediaText": [
+			{
+				"text": "A small facility where not only weapons are stored for times of urgency, but also facilitate the conscription of personnel."
+			}
+		]
+	},
+	{
+		"name": "Arms Factory",
+		"replaces": "Mechanized Unit Facility",
+		"uniqueTo": "NPUF",
+		"cost": 60,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Comment [Enables you to build Armored and Mech units]",
+			"Military",
+			"New [Armored] units start with [15] Experience [in this city]",
+			//"New [Mech] units start with [15] Experience [in this city]",
+			"Destroyed when the city is captured",
+			"[+30]% Production when constructing [Military] units [in this city]"
+		],
+		"requiredBuilding": "Military Base",
+		"requiredTech": "Composite Armor",
+		"civilopediaText": [
+			{
+				"text": "The military production complexes that ensures all the comrades of the United Front gets their needed strength from steady supply of weapons."
+			}
+		]
+	},
+	{
+		"name": "Athena Insitute",
+		"uniqueTo": "Cradian Federation",
+		"greatPersonPoints": { "Great Scientist": 5 },
+		"specialistSlots": { "Scientist": 3 },
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": [
+			"Destroyed when the city is captured",
+			"Limited to [1] per Civilization"
+		],
+		"requiredTech": "Colony Administration",
+		"requiredBuilding": "Colonial University",
+		"civilopediaText": [
+			{
+				"text": "A massive extension for a colonial university, for nurturing the most educated scientific geniuses."
+			}
+		]
+	},
+	{
+		"name": "Hephaestus Insitute",
+		"uniqueTo": "Cradian Federation",
+		"greatPersonPoints": { "Great Engineer": 5 },
+		"specialistSlots": { "Engineer": 3 },
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": [
+			"Destroyed when the city is captured",
+			"Limited to [1] per Civilization"
+		],
+		"requiredTech": "Colony Administration",
+		"requiredBuilding": "Colonial University",
+		"civilopediaText": [
+			{
+				"text": "A massive extension for a colonial university, for nurturing the most professional engineering talents."
+			}
+		]
+	},
+	{
+		"name": "Apollo Insitute",
+		"uniqueTo": "Cradian Federation",
+		"greatPersonPoints": { "Great Influencer": 5 },
+		"specialistSlots": { "Influencer": 3 },
+		"hurryCostModifier": 25,
+		"maintenance": 3,
+		"uniques": [
+			"Destroyed when the city is captured",
+			"Limited to [1] per Civilization"
+		],
+		"requiredTech": "Colony Administration",
+		"requiredBuilding": "Colonial University",
+		"civilopediaText": [
+			{
+				"text": "A massive extension for a colonial university, for nurturing the most creative art masters."
+			}
+		]
+	},
+	{
+		"name": "Plutus Insitute",
+		"uniqueTo": "Cradian Federation",
+		"greatPersonPoints": { "Great Influencer": 5 },
+		"specialistSlots": { "Merchant": 3 },
+		"hurryCostModifier": 25,
+		"maintenance": 3,
+		"uniques": [
+			"Destroyed when the city is captured",
+			"Limited to [1] per Civilization"
+		],
+		"requiredTech": "Colony Administration",
+		"requiredBuilding": "Colonial University",
+		"civilopediaText": [
+			{
+				"text": "A massive extension for a colonial university, for nurturing the most wise commerce elites."
+			}
+		]
+	},
+	{
+		"name": "Ares Insitute",
+		"uniqueTo": "Cradian Federation",
+		"greatPersonPoints": { "Great General": 3 },
+		"hurryCostModifier": 25,
+		"maintenance": 3,
+		"uniques": [
+			"Destroyed when the city is captured",
+			"Limited to [1] per Civilization"
+		],
+		"requiredTech": "Colony Administration",
+		"requiredBuilding": "Command Center",
+		"civilopediaText": [
+			{
+				"text": "A military academy extension for a command center, for nurturing the most vigilant military talents."
+			}
+		]
+	},
 ]

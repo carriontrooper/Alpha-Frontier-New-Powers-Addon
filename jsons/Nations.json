@@ -265,5 +265,157 @@
 			"Ni",
 			"Ti"
 		]
+	},
+	{
+		"name": "Cradian Federation",
+		"leaderName": "Branden Adams",
+		"adjective": ["Cradian"],
+		"preferredVictoryType":"Scientific",
+
+		/*
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		*/
+
+		"declaringWar": "Your nation is on a dangerous path of degeneration. Let me put it back onto the right path - professionally.",
+		"attacked": "I'll see that as an attempt to resist our righteous ideas.",
+		"defeated": "Mankind will never prosper again, as you have laid our work in ruins.",
+		"introduction": "Greetings, I represent the Cradian Federation. Be guided by our righteous wisdom, and mankind shall live in greater prosperity than ever.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "I do not trust you.",
+
+		"tradeRequest": "I believe this will bring us all a step further to brighter future.",
+
+		"outerColor": [30, 136, 229],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Gene Purists",
+		"uniqueName": "Technocratic Proserity",
+		"uniques": [
+			"[+1 Science] from every [Scientist]",
+			"[+1 Gold] from every [Merchant]",
+			"[+1 Culture] from every [Influencer]",
+			"[+1 Production] from every [Engineer]",
+			"[+1 Happiness, +2 Production] <in cities with at least [2] [Specialists]>",
+			"New [Military] units start with [10] Experience [in all cities]",
+			"[Gold] cost of purchasing [All] units [+20]%"
+		],
+		"cities": [
+			"Metropolis Central",
+			"Athens Field", //city names are pretty lame here and I believe a new set is needed
+			"Olympia Stead",
+			"Fort Sparta",
+			"Oracle",
+			"Enterprise Garden",
+			"Clocktower Bay",
+			"Blue Trident Harbor",
+			"Spearfield",
+			"Brass Crown District",
+			"Starfall",
+			"Gatekeeper's Watch",
+			"Owl's Nest",
+			"Redstone Valley",
+			"Newton's Arbor City",
+			"Beaconburg",
+			"Marble Throne District",
+			"Farseer's Cliff"
+		]
+	},
+	{
+		"name": "NPUF",
+		"leaderName": "Kolya Solovev",
+		"adjective": ["Northlander"],
+		"preferredVictoryType":"Domination",
+
+		/*
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		*/
+
+		"declaringWar": "The people of the United Front demands war upon your lands. Be prepared.",
+		"attacked": "Your evil intentions shall not leave unpunished.",
+		"defeated": "You......!",
+		"introduction": "Zdravstvuyte. This is the Northland People's United Front. May I represent my people to welcome you.",
+
+		"neutralHello": "The people of the United Front are listening.",
+		"hateHello": "My people do not welcome you, enemy. But I'll let you speak.",
+
+		"tradeRequest": "Here are my people's demands. Make a wise decision.",
+
+		"outerColor": [86, 92, 78],
+		"innerColor": [255, 160, 0],
+		"favoredReligion": "Posadist",
+		"uniqueName": "Under a Common Banner",
+		"uniques": [
+			"Great General provides double combat bonus",
+			"[-30]% Unhappiness from [Population] [in annexed cities]",
+			"[+15]% Strength <when above [55] HP>",
+			"Militaristic City-States grant units [2] times as fast when you are at war with a common nation"
+		],
+		"cities": [
+			"Pechgorod", //city names kinda lame, need better set
+			"Kirovgrad",
+			"Olovgrad",
+			"Vintikgorod",
+			"Kulak",
+			"Volkovgrad",
+			"Molotov-Zhubov City",
+			"Slava",
+			"Gorgisgrad",
+			"Sokologorod",
+			"Ivangrad",
+			"Stalnoygorod",
+			"Kremlingrad",
+			"Nakovalnya",
+			"Kolokol",
+			"Zhukovgrad"
+		]
+	},
+	{
+		"name": "Astria Triumvirate",
+		"leaderName": "Triumvir Council",
+		"adjective": ["Astrian"],
+		"preferredVictoryType":"Diplomatic",
+
+		/*
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		*/
+
+		"declaringWar": "The Council have come to an conclusion that appleasement is no longer an option.",
+		"attacked": "Returning to old barbaric ways is not a sustainable business. We'll teach you why.",
+		"defeated": "Do you animals have no shame, revelling in all your barbarism?",
+		"introduction": "Welcome to the lands of Astria. May the God of Fortune bless you.",
+
+		"neutralHello": "Welcome. Would you like a cup of tea while we discuss?",
+		"hateHello": "There you are. Let me prepare you some po... I mean tea.",
+
+		"tradeRequest": "Let's trade in a civilized way.",
+
+		"outerColor": [255, 172, 18],
+		"innerColor": [253, 255, 153],
+		"favoredReligion": "Virtualism",
+		"uniqueName": "Dynasty of the Golden Digit",
+		"uniques": [
+			"Gain [200] [Gold] <upon declaring friendship>",
+			"Allied City-States provide [Gold] equal to [30]% of what they produce for themselves"
+		],
+		"cities": [
+			"Shujing", //樞京
+			"Santi", //三體
+			"Chunchi", //純赤
+			"Xielu", //諧綠
+			"Zhenhuang", //真黃
+			"Xincheng",
+			"Zhenshan", //震山
+			"Changdu",
+			"Yangjiang",
+			"Nanmeng",
+			"Beiguan",
+			"Zhuyan", //朱炎
+			"Qingshui", //清水
+			"Yushan", //玉山
+			"Hongtian", //宏天
+		]
 	}
 ]
