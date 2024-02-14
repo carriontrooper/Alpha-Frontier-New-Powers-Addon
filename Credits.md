@@ -2,4 +2,4 @@
 
 [Hachchch](https://github.com/hachchch)https://github.com/hachchch - Saturnus Federation idea
 
-[Bucketeer AKA GeneralWadaling](https://github.com/GeneralWadaling)https://github.com/GeneralWadaling - New Astria Triumvirate
+[Bucketeer AKA GeneralWadaling](https://github.com/GeneralWadaling)https://github.com/GeneralWadaling - Astria Triumvirate, Cradian federation, NPUF stuff
