@@ -280,17 +280,17 @@
 		"declaringWar": "Your nation is on a dangerous path of degeneration. Let me put it back onto the right path - professionally.",
 		"attacked": "I'll see that as an attempt to resist our righteous ideas.",
 		"defeated": "Mankind will never prosper again, as you have laid our work in ruins.",
-		"introduction": "Greetings, I represent the Cradian Federation. Be guided by our righteous wisdom, and mankind shall live in greater prosperity than ever.",
+		"introduction": "Greetings, I represent the Cradian Federation. Beguided by our righteous wisdom, mankind shall live in greater prosperity than ever.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "I do not trust you.",
 
-		"tradeRequest": "I believe this will bring us all a step further to brighter future.",
+		"tradeRequest": "I believe this will bring us all a step further to a brighter future.",
 
 		"outerColor": [30, 136, 229],
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Gene Purists",
-		"uniqueName": "Technocratic Proserity",
+		"uniqueName": "Technocratic Prosperity",
 		"uniques": [
 			"[+1 Science] from every [Scientist]",
 			"[+1 Gold] from every [Merchant]",
@@ -302,8 +302,8 @@
 		],
 		"cities": [
 			"Metropolis Central",
-			"Athens Field", //city names are pretty lame here and I believe a new set is needed
-			"Olympia Stead",
+			"Athenpolis", //city names are pretty lame here and I believe a new set is needed
+			"Olympia",
 			"Fort Sparta",
 			"Oracle",
 			"Enterprise Garden",
@@ -322,9 +322,9 @@
 		]
 	},
 	{
-		"name": "NPUF",
+		"name": "Northland People's United Front",
 		"leaderName": "Kolya Solovev",
-		"adjective": ["Northlander"],
+		"adjective": ["NPUF"],
 		"preferredVictoryType":"Domination",
 
 		/*
@@ -372,9 +372,9 @@
 		]
 	},
 	{
-		"name": "Astria Triumvirate",
-		"leaderName": "Triumvir Council",
-		"adjective": ["Astrian"],
+		"name": "New Astria Extraterrestrial Company",
+		"leaderName": "Ma Shirong", //馬世榮
+		"adjective": ["NAEC"],
 		"preferredVictoryType":"Diplomatic",
 
 		/*
@@ -382,10 +382,10 @@
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 		*/
 
-		"declaringWar": "The Council have come to an conclusion that appleasement is no longer an option.",
+		"declaringWar": "The Board of Directors have come to a conclusion that appeasement is no longer an option.",
 		"attacked": "Returning to old barbaric ways is not a sustainable business. We'll teach you why.",
 		"defeated": "Do you animals have no shame, revelling in all your barbarism?",
-		"introduction": "Welcome to the lands of Astria. May the God of Fortune bless you.",
+		"introduction": "Welcome! May the God of Fortune bless you.",
 
 		"neutralHello": "Welcome. Would you like a cup of tea while we discuss?",
 		"hateHello": "There you are. Let me prepare you some po... I mean tea.",
@@ -402,7 +402,7 @@
 		],
 		"cities": [
 			"Shujing", //樞京
-			"Santi", //三體
+			"Sancai", //三彩
 			"Chunchi", //純赤
 			"Xielu", //諧綠
 			"Zhenhuang", //真黃
@@ -417,5 +417,5 @@
 			"Yushan", //玉山
 			"Hongtian", //宏天
 		]
-	}
+	},
 ]
