@@ -36,10 +36,9 @@ ammonia crystallizer
 			}
 		]
 	},
-	{
 		"name": "Military Contractor Office",
 		"replaces": "Colonial Patrol Station",
-		"uniqueTo": "Astria Triumvirate",
+		"uniqueTo": "New Astria Extraterrestrial Company",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": [
@@ -52,34 +51,34 @@ ammonia crystallizer
 		"requiredTech": "Military Ballistics",
 		"civilopediaText": [
 			{
-				"text": "Semi-state-owned military contractors is an element of Triumvirate's defense force, where military personnels and assets may be purchased at a more favorable price from the contractors."
+				"text": "Semi-company-owned military contractors is an element of NAEC's defense force, where military personnel and assets may be purchased at a more favorable price from the contractors."
 			}
 		]
 	},
 	{
 		"name": "Digital Economy",
 		"replaces": "Cryptomining Servers",
-		"uniqueTo": "Astria Triumvirate",
+		"uniqueTo": "New Astria Extraterrestrial Company",
 		"gold": 5,
 		"specialistSlots": { "Merchant": 3 },
 		"percentStatBonus": { "gold": 5 },
 		"hurryCostModifier": 25,
 		"uniques": [
-			"Provides [1] [Digital Storage Space]",
+			"Consumes [1] [Digital Storage Space]",
 			"[+10]% Production when constructing [Production] buildings [in this city]",
 			"[+10]% Production when constructing [Gold] buildings [in all cities]"
 		],
 		"requiredTech": "Cryptocurrency",
 		"civilopediaText": [
 			{
-				"text": "Highly digitized economy played a crucial role in the high-speed economy of the Astria Triumvirate. With minimal delay of information and interaction, development of industry and commerce can be highly accelerated."
+				"text": "Highly digitized economy played a crucial role in the wealth-making business of the NAEC. With minimal delay of information and interaction, development of industry and commerce can be highly accelerated."
 			}
 		]
 	},
 	{
 		"name": "Conscription Quarters",
 		"replaces": "Frontier Armory",
-		"uniqueTo": "NPUF",
+		"uniqueTo": "Northland People's United Front",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": [
@@ -100,7 +99,7 @@ ammonia crystallizer
 	{
 		"name": "Arms Factory",
 		"replaces": "Mechanized Unit Facility",
-		"uniqueTo": "NPUF",
+		"uniqueTo": "Northland People's United Front",
 		"cost": 60,
 		"maintenance": 2,
 		"hurryCostModifier": 25,
@@ -121,7 +120,7 @@ ammonia crystallizer
 		]
 	},
 	{
-		"name": "Athena Insitute",
+		"name": "Athena Institute",
 		"uniqueTo": "Cradian Federation",
 		"greatPersonPoints": { "Great Scientist": 5 },
 		"specialistSlots": { "Scientist": 3 },
@@ -140,7 +139,7 @@ ammonia crystallizer
 		]
 	},
 	{
-		"name": "Hephaestus Insitute",
+		"name": "Hephaestus Institute",
 		"uniqueTo": "Cradian Federation",
 		"greatPersonPoints": { "Great Engineer": 5 },
 		"specialistSlots": { "Engineer": 3 },
@@ -159,7 +158,7 @@ ammonia crystallizer
 		]
 	},
 	{
-		"name": "Apollo Insitute",
+		"name": "Apollo Institute",
 		"uniqueTo": "Cradian Federation",
 		"greatPersonPoints": { "Great Influencer": 5 },
 		"specialistSlots": { "Influencer": 3 },
@@ -178,7 +177,7 @@ ammonia crystallizer
 		]
 	},
 	{
-		"name": "Plutus Insitute",
+		"name": "Plutus Institute",
 		"uniqueTo": "Cradian Federation",
 		"greatPersonPoints": { "Great Influencer": 5 },
 		"specialistSlots": { "Merchant": 3 },
@@ -197,9 +196,9 @@ ammonia crystallizer
 		]
 	},
 	{
-		"name": "Ares Insitute",
+		"name": "Ares Institute",
 		"uniqueTo": "Cradian Federation",
-		"greatPersonPoints": { "Great General": 3 },
+		"greatPersonPoints": { "Great General": 5 },
 		"hurryCostModifier": 25,
 		"maintenance": 3,
 		"uniques": [
@@ -210,7 +209,7 @@ ammonia crystallizer
 		"requiredBuilding": "Command Center",
 		"civilopediaText": [
 			{
-				"text": "A military academy extension for a command center, for nurturing the most vigilant military talents."
+				"text": "A military academy extension for a command center, for nurturing the most resourceful military commanders."
 			}
 		]
 	},
