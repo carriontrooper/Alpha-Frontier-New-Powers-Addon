@@ -180,7 +180,7 @@ ammonia crystallizer
 	{
 		"name": "Plutus Institute",
 		"uniqueTo": "Cradian Federation",
-		"greatPersonPoints": { "Great Influencer": 5 },
+		"greatPersonPoints": { "Great Merchant": 5 },
 		"specialistSlots": { "Merchant": 3 },
 		"hurryCostModifier": 25,
 		"maintenance": 3,
