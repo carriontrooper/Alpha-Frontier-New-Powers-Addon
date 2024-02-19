@@ -56,7 +56,7 @@
 		"cost": 106,
 		"uniques": [
 			"Founds a new city <by consuming this unit> <before [11] turns>",
-			"Founds a new city <by consuming this unit> <within [5] tiles of a [{Helios Megapolity} {City center}]> <after [10] turns>",
+			"Founds a new city <by consuming this unit> <within [7] tiles of a [{Helios Megapolity} {City center}]> <after [10] turns>",
 			"Limited to [6] per Civilization",
 			"Costs [1] [Dome Colonizer Count]",
 			"Excess Food converted to Production when under construction",
