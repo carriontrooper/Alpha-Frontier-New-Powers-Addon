@@ -36,6 +36,7 @@ ammonia crystallizer
 			}
 		]
 	},
+	{
 		"name": "Military Contractor Office",
 		"replaces": "Colonial Patrol Station",
 		"uniqueTo": "New Astria Extraterrestrial Company",
