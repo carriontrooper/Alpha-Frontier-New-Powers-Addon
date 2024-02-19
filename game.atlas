@@ -4,14 +4,14 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Apollo Insitute
+BuildingIcons/Apollo Institute
   rotate: false
   xy: 4, 750
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
-BuildingIcons/Ares Insitute
+BuildingIcons/Ares Institute
   rotate: false
   xy: 4, 492
   size: 250, 250
@@ -25,42 +25,42 @@ BuildingIcons/Arms Factory
   orig: 250, 250
   offset: 0, 0
   index: -1
-BuildingIcons/Athena Insitute
+BuildingIcons/Athena Institute
   rotate: false
-  xy: 262, 492
+  xy: 4, 234
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Conscription Quarters
   rotate: false
-  xy: 520, 750
+  xy: 262, 492
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Digital Economy
   rotate: false
-  xy: 262, 234
+  xy: 520, 750
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
-BuildingIcons/Hephaestus Insitute
+BuildingIcons/Hephaestus Institute
   rotate: false
-  xy: 778, 750
+  xy: 520, 492
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Military Contractor Office
   rotate: false
-  xy: 520, 234
+  xy: 778, 750
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
-BuildingIcons/Plutus Insitute
+BuildingIcons/Plutus Institute
   rotate: false
   xy: 1036, 750
   size: 250, 250
@@ -74,13 +74,6 @@ ImprovementIcons/Solar Farm
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Astria Triumvirate
-  rotate: false
-  xy: 4, 234
-  size: 250, 250
-  orig: 250, 250
-  offset: 0, 0
-  index: -1
 NationIcons/Cradian Federation
   rotate: false
   xy: 4, 40
@@ -88,7 +81,14 @@ NationIcons/Cradian Federation
   orig: 186, 186
   offset: 0, 0
   index: -1
-NationIcons/NPUF
+NationIcons/New Astria Extraterrestrial Company
+  rotate: false
+  xy: 520, 234
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+NationIcons/Northland People's United Front
   rotate: false
   xy: 778, 492
   size: 250, 250
@@ -125,7 +125,7 @@ TileSets/FantasyHex/Units/Mnewer Attack Mecha
   index: -1
 UnitIcons/Flying Arsenal
   rotate: false
-  xy: 520, 492
+  xy: 262, 234
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
