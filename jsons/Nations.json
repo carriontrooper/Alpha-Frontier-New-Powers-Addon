@@ -92,7 +92,7 @@
 		"uniqueName": "Glorious Ecumenopolis",
 		"uniques": [
 			//"Cannot build [Colonizer] units",
-			"Provides [6] [Dome Colonizer Count] <hidden from users>",
+			//"Provides [6] [Dome Colonizer Count] <hidden from users>",
 			"Comment [Can only build 6 Dome Colonizer units]",
 			"Comment [Can make districts around a Dome City]",
 			//"Starts with [Hab-Domes]",
