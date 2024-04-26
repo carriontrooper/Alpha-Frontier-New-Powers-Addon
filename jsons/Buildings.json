@@ -213,5 +213,21 @@ ammonia crystallizer
 				"text": "A military academy extension for a command center, for nurturing the most resourceful military commanders."
 			}
 		]
-	}
+	},
+
+//hidden building
+
+	{
+		"name": "Dome City Counter",
+		"uniqueTo": "Helios Megapolity",
+		"uniques": [
+			"Unbuildable",
+			"Cannot be purchased",
+			"Unsellable",
+			"Automatically built in all cities where it is buildable",
+			"Provides [1] [Dome City Count]",
+			"Will not be displayed in Civilopedia"
+		]
+	},
+
 ]
