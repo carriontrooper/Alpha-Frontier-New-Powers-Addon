@@ -221,7 +221,7 @@ ammonia crystallizer
 		"name": "Dome City Counter",
 		"uniqueTo": "Helios Megapolity",
 		"uniques": [
-			"Unbuildable",
+			//"Unbuildable",
 			"Cannot be purchased",
 			"Unsellable",
 			"Automatically built in all cities where it is buildable",
