@@ -24,7 +24,7 @@
 			"[+50]% Strength <vs [Armored] units>",
 			"[+10]% Strength <when attacking> <with [20]% chance>",
 			"Double movement in [Desert]",
-			"Only available <in cities with a [Mechanized Unit Facility]>",
+			"Can only be built <in cities with a [Mechanized Unit Facility]>",
 			"Consumes [2] [Titanium]",
 			"Never appears as a Barbarian unit"
 		],
@@ -58,7 +58,7 @@
 			"Founds a new city <by consuming this unit> <before [11] turns> <when below [7] [Dome Colonizer Count]>",
 			"Founds a new city <by consuming this unit> <within [7] tiles of a [{Helios Megapolity} {City center}]> <after [10] turns> <when below [7] [Dome Colonizer Count]>",
 			"Limited to [6] per Civilization",
-			"Only available <when below [7] [Dome Colonizer Count]>",
+			"Can only be built <when below [7] [Dome Colonizer Count]>",
 			"Instantly provides [1] [Dome Colonizer Count] <upon being defeated>",
 			"Excess Food converted to Production when under construction",
 			"Requires at least [2] population"
@@ -98,9 +98,9 @@
 			"Can see invisible [Stealth Infantry] units",
 			"Can see invisible [Submarine] units",
 			"Can see invisible [Xeno Stealth Water] units",
-			"Only available <in cities with a [Orbital Launch Facility]>",
+			"Can only be built <in cities with a [Orbital Launch Facility]>",
 			"Consumes [1] [Titanium]",
-			"Only available <with [Titanium]>",
+			"Can only be built <with [Titanium]>",
 			"Never appears as a Barbarian unit"
 		],
 		"attackSound": "shot",
@@ -136,7 +136,7 @@
 			"[+100]% Strength <vs [Mech] units>",
 			"[-33]% Strength <vs [Air] units>",
 			"Consumes [2] [Ulframite]",
-			"Only available <with [Ulframite]>",
+			"Can only be built <with [Ulframite]>",
 			"Never appears as a Barbarian unit"
 		],
 		"promotions": ["Indirect Fire"],
