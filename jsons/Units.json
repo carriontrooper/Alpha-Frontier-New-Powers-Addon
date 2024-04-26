@@ -55,11 +55,10 @@
 		"movement": 2,
 		"cost": 106,
 		"uniques": [
-			"Founds a new city <by consuming this unit> <before [11] turns> <when below [7] [Dome Colonizer Count]>",
-			"Founds a new city <by consuming this unit> <within [7] tiles of a [{Helios Megapolity} {City center}]> <after [10] turns> <when below [7] [Dome Colonizer Count]>",
+			"Founds a new city <by consuming this unit> <before [11] turns> <when below [7] [Dome City Count]>",
+			"Founds a new city <by consuming this unit> <within [7] tiles of a [{Helios Megapolity} {City center}]> <after [10] turns> <when below [7] [Dome City Count]>",
 			"Limited to [6] per Civilization",
-			"Can only be built <when below [7] [Dome Colonizer Count]>",
-			"Instantly provides [1] [Dome Colonizer Count] <upon being defeated>",
+			"Can only be built <when below [7] [Dome City Count]>",
 			"Excess Food converted to Production when under construction",
 			"Requires at least [2] population"
 		],
@@ -69,7 +68,7 @@
 				"Separator": true
 			},
 			{
-				"text": "A mobile, self-deploying hab-dome kit, complete with starter 3D printer and the settlers to inhabit the end result."
+				"text": "A mobile, self-deploying hab-dome kit, complete with starter 3D printer and the settlers to inhabit the end result. Limited amount."
 			}
 		]
 	},
