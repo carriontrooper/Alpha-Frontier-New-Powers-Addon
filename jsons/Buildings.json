@@ -222,6 +222,7 @@ ammonia crystallizer
 		"uniqueTo": "Helios Megapolity",
 		"uniques": [
 			//"Unbuildable",
+			"Can only be built <in [{non-[Annexed]} {non-[Puppeted]}] cities>",
 			"Cannot be purchased",
 			"Unsellable",
 			"Automatically built in all cities where it is buildable",
