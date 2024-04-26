@@ -1,7 +1,7 @@
 [
 	//hidden resources
 	{
-		"name": "Dome Colonizer Count",
+		"name": "Dome City Count",
 		"resourceType": "Strategic",
 		//"revealedBy": "Orbital Deterrents",
 		"uniques": [
