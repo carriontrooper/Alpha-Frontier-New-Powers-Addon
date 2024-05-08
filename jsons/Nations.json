@@ -274,10 +274,9 @@
 			"Ti"
 		]
 	},
-	/*
 	{
 		"name": "Kruger-Gurevitch Ventures",
-		"leaderName": "Jonas Kruger",
+		"leaderName": "Josef Kruger",
 		"adjective": ["KGV"],
 		"startBias": ["Plains"],
 		"personality": "Military-Industrial Megacorp",
@@ -286,45 +285,45 @@
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "It is time to hunt the most dangerous game - you.",
+		"attacked": "Do you realize who you've struck against, you animal?!",
+		"defeated": "So, the hunter has become the hunted... well done.",
+		"introduction": "Ho there! I am Josef Kruger, CEO of Kruger-Gurevitch Ventures. Are you also here on a safari?",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Neighbor! Fancy of you to visit me.",
+		"hateHello": "Hrm, speak quickly before I change my mind.",
 
-		"tradeRequest": ".",
+		"tradeRequest": "What do you think of these deals, eh?",
 
 		"outerColor": [92, 110, 63],
 		"innerColor": [247, 181, 0],
-		"favoredReligion": "Mekhaneites",
+		"favoredReligion": "Astral Pantheon",
 		"uniqueName": "KGV Quality",
 		"uniques": [
 			"[-10]% maintenance costs <for [Armored] units>",
-			"[+10]% Strength <for [Armored] units>"
+			"[+10]% Strength <for [Armored] units> <when attacking>"
 		],
 		"cities": [
-			"Capital",
-			"City1",
-			"City2",
-			"City3",
-			"City4",
-			"City5",
-			"City6",
-			"City7",
-			"City8",
-			"City9",
-			"City10",
-			"City11",
-			"City12",
-			"City13",
-			"City14",
-			"City15",
-			"City16",
-			"City17",
-			"City18",
-			"AndSoOn"
+			"Groenveldt",
+			"Ivanstead",
+			"Oranyespruit",
+			"Rostov Town",
+			"Kraalbos",
+			"Borisveldt",
+			"Neu Kaapstad",
+			"Pravda Hills",
+			"Blouberg",
+			"Volgohoek",
+			"Sersantsrivier",
+			"Groznystad",
+			"Mooiveldt",
+			"Vladoberg",
+			"Rooihoek",
+			"Popov Town",
+			"Drakensberg Base",
+			"Alekseistad",
+			"Bruinspoort",
+			"Ilyaspruit"
 		],
 		"spyNames": [
 			"Rooikat",
@@ -335,11 +334,10 @@
 			"Ystervark",
 			"Aardvark",
 			"Olifant",
-			"Krokadil",
+			"Hartebeest",
 			"Grootslang"
 		]
 	},
-	*/
 	{
 		"name": "Cradian Federation",
 		"leaderName": "Branden Adams",
