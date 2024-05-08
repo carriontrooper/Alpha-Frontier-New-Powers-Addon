@@ -13,6 +13,7 @@
 		"leaderName": "LeaderName",
 		"adjective": ["Adjective"],
 		"startBias": ["Tundra"],
+		"personality": "personalityType",
 		"preferredVictoryType":"Scientific",
 
 		"startIntroPart1": ".",
@@ -75,6 +76,7 @@
 		"leaderName": "Hypatia Athanasios",
 		"adjective": ["Helios"],
 		"startBias": ["Coastal"],
+		"personality": "Urban Builder",
 		"preferredVictoryType":"Cultural",
 
 		"startIntroPart1": "Yassou, Representative Hypatia Athanasios of the Helios Megapolity. Your people have survived the fall of the Greek Republic in the chaos of Old Earth by pooling your resources into one domed megacity. This allows you to prosper while avoiding the ecological mistakes of Old Earth - and soon enough, your burgeoning nation-state managed to develop far enough to send their own seed-ship across the stars.",
@@ -146,6 +148,7 @@
 		"leaderName": "Seth Al-Muhtariq",
 		"adjective": ["SET"],
 		"startBias": ["Desert"],
+		"personality": "Mercenary Megacorp",
 		"preferredVictoryType":"Domination",
 
 		"startIntroPart1": "Greetings, CEO Seth Al-Muhtariq of Shamsy Electric Technologies! Your company is among the few that stood in the wake of Old Earth's collapse. During that tumultuous time you've capitalized on your company's technological advantage to secure enough facilities and land for your people to survive. You've heard talk of other nations and corporations moving off-world - and the prestige and riches abound in those exoplanets. It was then that you decided to direct Shamsy Electric Technologies toward the stars.",
@@ -211,6 +214,7 @@
 		"leaderName": "Kauko Korpela",
 		"adjective": ["Saturnus"],
 		"startBias": ["Tundra"],
+		"personality": "Agrobusiness Spacer",
 		"preferredVictoryType":"Scientific",
 
 		"startIntroPart1": "Hail, Speaker Kauko Korpela. Since you've split from the warlike ways of the Einherjar Diktat, the moons of Saturn have become a refuge for you and other similar groups. Fueled by a desire for mutual protection, the Saturnus Federation was formed. Utilizing cutting-edge hydroponics to create viable orbital habitats, your people thrived under the rings of Saturn. Following this orbital prosperity, a seed ship to colonize other worlds is inevitable.",
@@ -270,10 +274,77 @@
 			"Ti"
 		]
 	},
+	/*
+	{
+		"name": "Kruger-Gurevitch Ventures",
+		"leaderName": "Jonas Kruger",
+		"adjective": ["KGV"],
+		"startBias": ["Plains"],
+		"personality": "Military-Industrial Megacorp",
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": ".",
+		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+
+		"declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+
+		"neutralHello": ".",
+		"hateHello": ".",
+
+		"tradeRequest": ".",
+
+		"outerColor": [92, 110, 63],
+		"innerColor": [247, 181, 0],
+		"favoredReligion": "Mekhaneites",
+		"uniqueName": "KGV Quality",
+		"uniques": [
+			"[-10]% maintenance costs <for [Armored] units>",
+			"[+10]% Strength <for [Armored] units>"
+		],
+		"cities": [
+			"Capital",
+			"City1",
+			"City2",
+			"City3",
+			"City4",
+			"City5",
+			"City6",
+			"City7",
+			"City8",
+			"City9",
+			"City10",
+			"City11",
+			"City12",
+			"City13",
+			"City14",
+			"City15",
+			"City16",
+			"City17",
+			"City18",
+			"AndSoOn"
+		],
+		"spyNames": [
+			"Rooikat",
+			"Wilderbeest",
+			"Springbok",
+			"Gemsbok",
+			"Rooivalk",
+			"Ystervark",
+			"Aardvark",
+			"Olifant",
+			"Krokadil",
+			"Grootslang"
+		]
+	},
+	*/
 	{
 		"name": "Cradian Federation",
 		"leaderName": "Branden Adams",
 		"adjective": ["Cradian"],
+		"personality": "personalityType",
 		"preferredVictoryType":"Scientific",
 
 		/*
@@ -329,6 +400,7 @@
 		"name": "Northland People's United Front",
 		"leaderName": "Kolya Solovev",
 		"adjective": ["NPUF"],
+		"personality": "personalityType",
 		"preferredVictoryType":"Domination",
 
 		/*
@@ -379,6 +451,7 @@
 		"name": "New Astria Extraterrestrial Company",
 		"leaderName": "Ma Shirong", //馬世榮
 		"adjective": ["NAEC"],
+		"personality": "personalityType",
 		"preferredVictoryType":"Diplomatic",
 
 		/*
