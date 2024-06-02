@@ -281,10 +281,10 @@
 		"startBias": ["Plains"],
 		"personality": "Military-Industrial Megacorp",
 		"preferredVictoryType":"Domination",
-
+		/*
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
-
+		*/
 		"declaringWar": "It is time to hunt the most dangerous game - you.",
 		"attacked": "Do you realize who you've struck against, you animal?!",
 		"defeated": "So, the hunter has become the hunted... well done.",
@@ -342,14 +342,12 @@
 		"name": "Cradian Federation",
 		"leaderName": "Branden Adams",
 		"adjective": ["Cradian"],
-		"personality": "personalityType",
+		"personality": "Human-purist Researcher",
 		"preferredVictoryType":"Scientific",
-
 		/*
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 		*/
-
 		"declaringWar": "Your nation is on a dangerous path of degeneration. Let me put it back onto the right path - professionally.",
 		"attacked": "I'll see that as an attempt to resist our righteous ideas.",
 		"defeated": "Mankind will never prosper again, as you have laid our work in ruins.",
@@ -392,20 +390,30 @@
 			"Beaconburg",
 			"Marble Throne District",
 			"Farseer's Cliff"
+		],
+		"spyNames": [
+			"Codename White",
+			"Codename Gray",
+			"Codename Violet",
+			"Codename Blue",
+			"Codename Green",
+			"Codename Yellow",
+			"Codename Orange",
+			"Codename Red",
+			"Codename Brown",
+			"Codename Black"
 		]
 	},
 	{
 		"name": "Northland People's United Front",
 		"leaderName": "Kolya Solovev",
 		"adjective": ["NPUF"],
-		"personality": "personalityType",
+		"personality": "Expansionist Union",
 		"preferredVictoryType":"Domination",
-
 		/*
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 		*/
-
 		"declaringWar": "The people of the United Front demands war upon your lands. Be prepared.",
 		"attacked": "Your evil intentions shall not leave unpunished.",
 		"defeated": "You......!",
@@ -443,20 +451,30 @@
 			"Nakovalnya",
 			"Kolokol",
 			"Zhukovgrad"
+		],
+		"spyNames": [
+			"Prizrak Alpha",
+			"Prizrak Beta",
+			"Prizrak Gamma",
+			"Prizrak Delta",
+			"Prizrak Epsilon",
+			"Prizrak Zeta",
+			"Prizrak Eta",
+			"Prizrak Theta",
+			"Prizrak Iota",
+			"Prizrak Kappa"
 		]
 	},
 	{
 		"name": "New Astria Extraterrestrial Company",
 		"leaderName": "Ma Shirong", //馬世榮
 		"adjective": ["NAEC"],
-		"personality": "personalityType",
+		"personality": "Economic Megacorp",
 		"preferredVictoryType":"Diplomatic",
-
 		/*
 		"startIntroPart1": ".",
 		"startIntroPart2": ". Can you build a colony that stands the test of time?",
 		*/
-
 		"declaringWar": "The Board of Directors have come to a conclusion that appeasement is no longer an option.",
 		"attacked": "Returning to old barbaric ways is not a sustainable business. We'll teach you why.",
 		"defeated": "Do you animals have no shame, revelling in all your barbarism?",
@@ -491,6 +509,18 @@
 			"Qingshui", //清水
 			"Yushan", //玉山
 			"Hongtian", //宏天
+		],
+		"spyNames": [
+			"Agent Fei",
+			"Agent Wei",
+			"Agent Bei",
+			"Agent Lei",
+			"Agent Mei",
+			"Agent Rei",
+			"Agent Sei",
+			"Agent Pei",
+			"Agent Hei",
+			"Agent Kei"
 		]
-	},
+	}
 ]
