@@ -97,6 +97,7 @@
 		"favoredReligion": "Solar Mass",
 		"uniqueName": "Glorious Ecumenopolis",
 		"uniques": [
+			"May not annex cities",
 			//"Cannot build [Colonizer] units",
 			//"Provides [6] [Dome Colonizer Count] <hidden from users>",
 			"Comment [Can only build 6 Dome Colonizer units]",
