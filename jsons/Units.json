@@ -48,6 +48,82 @@
 			}
 		]
 	},
+	{
+		// "Hovering unit" unique gives ability to get into impassable tiles - and only that (no vision bonus or flying over ocean)
+		// Unit embarks like any other ground unit and has penalty for attacking over river or from embarked state
+		"name": "Springbok Hoverjet",
+		"replaces": "Combat Heli",
+		"uniqueTo": "Kruger-Gurevitch Ventures",
+		"unitType": "Helicopter",
+		"movement": 5,
+		"range": 2,
+		"strength": 30,
+		"rangedStrength": 30,
+		"cost": 150,
+		"requiredTech": "Next-Gen Armaments",
+		//"upgradesTo": "Cyberheli",
+		"uniques": [
+			"No defensive terrain bonus",
+			"Can move after attacking",
+			"All tiles cost 1 movement",
+			"Ignores Zone of Control",
+			"Unable to capture cities",
+			"[+1] Sight",
+			"[+100]% Strength <vs [Infantry] units>",
+			"[-50]% Strength <vs [Air] units>",
+			"[+50]% Strength <vs [Armored] units>",
+			"[+10]% Strength bonus for [Infantry] units within [2] tiles",
+			"May withdraw before melee ([60]%)",
+			"Consumes [1] [Titanium]",
+			"Can only be built <with [Titanium]>",
+			"Can upgrade to [Cyberheli]",
+			"Can upgrade to [Heavy Heli Gunship]",
+			"Never appears as a Barbarian unit"
+		],
+		//"promotions": ["Indirect Fire"],
+		"attackSound": "machinegun",
+		"civilopediaText": [
+			
+			{
+				"Separator": true
+			},
+			{
+				"text": "This flying IFV is tougher than the average combat helicopter, and is equipped with powerful hoverjets that enable it to be quite nimble."
+			}
+		]
+	},
+	{
+		"name": "Renoster Tank",
+		"replaces": "Colonial Armor",
+		"uniqueTo": "Kruger-Gurevitch Ventures",
+		"unitType": "Armored",
+		"movement": 3,
+		"strength": 43,
+		"cost": 150,
+		"requiredTech": "Composite Armor",
+		"upgradesTo": "Drop Tank",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[+150]% Strength <vs [Armored] units> <when attacking>",
+			"[+1] Movement <in [Open terrain] tiles>"
+			"Can only be built <in cities with a [Mechanized Unit Facility]>",
+			"Consumes [1] [Promethine]",
+			"Can only be built <with [Promethine]>",
+			"May upgrade to [Drop Tank] through ruins-like effects",
+			"Never appears as a Barbarian unit"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot",
+		"civilopediaText": [
+			{
+				"Separator": true
+			},
+			{
+				"text": "The Renoster is a KGV-designed tank that trades some of its armor for firepower. As a side effect, it can go faster on flat, open terrain."
+			}
+		]
+	},
 	
 	{
 		"name": "Dome Colonizer",
