@@ -100,6 +100,7 @@
 			"May not annex cities",
 			//"Cannot build [Colonizer] units",
 			//"Provides [6] [Dome Colonizer Count] <hidden from users>",
+			"Cannot build [Dome Colonizer] units <when above [7] [Dome City Count]>"
 			"Comment [Can only build 6 Dome Colonizer units]",
 			"Comment [Can make districts around a Dome City]",
 			//"Starts with [Hab-Domes]",
