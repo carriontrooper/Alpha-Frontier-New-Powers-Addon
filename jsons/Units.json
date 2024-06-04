@@ -135,7 +135,7 @@
 		"uniques": [
 			"Founds a new city <by consuming this unit> <before [11] turns> <when below [7] [Dome City Count]>",
 			"Founds a new city <by consuming this unit> <within [7] tiles of a [{your} {City center}]> <after [10] turns> <when below [7] [Dome City Count]>",
-			//"Limited to [6] per Civilization",
+			"Limited to [6] per Civilization",
 			"Can only be built <when below [7] [Dome City Count]>",
 			"Excess Food converted to Production when under construction",
 			"Requires at least [2] population"
