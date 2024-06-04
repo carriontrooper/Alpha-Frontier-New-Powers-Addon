@@ -220,6 +220,7 @@ ammonia crystallizer
 	{
 		"name": "Dome City Counter",
 		"uniqueTo": "Helios Megapolity",
+		"requiredTech": "Old Earth Knowledge",
 		"uniques": [
 			//"Unbuildable",
 			"Can only be built <in [{non-[Annexed]} {non-[Puppeted]}] cities>",
