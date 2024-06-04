@@ -8,7 +8,7 @@ ammonia crystallizer
 	*/
 	
 	{
-		"name": "Metallic Hydrogen Synthesis Plant",
+		"name": "M-Hydrogen Synthesis Plant",
 		"uniqueTo": "Saturnus Federation",
 		"maintenance": 1,
 		"production": 3,
