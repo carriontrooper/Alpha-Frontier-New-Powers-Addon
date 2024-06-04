@@ -138,7 +138,7 @@
 			"Limited to [6] per Civilization",
 			"Can only be built <when below [7] [Dome City Count]>",
 			"Excess Food converted to Production when under construction",
-			//"Requires at least [2] population"
+			"Requires at least [2] population"
 		],
 		"hurryCostModifier": 20,
 		"civilopediaText": [
