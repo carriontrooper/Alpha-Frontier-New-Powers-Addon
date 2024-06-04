@@ -93,7 +93,7 @@
 		"tradeRequest": "Our glorious city is willing to trade its goods for yours.",
 
 		"outerColor": [4, 72, 189],
-		"innerColor": [236, 250, 110],
+		"innerColor": [255, 221, 0],
 		"favoredReligion": "Solar Mass",
 		"uniqueName": "Glorious Ecumenopolis",
 		"uniques": [
