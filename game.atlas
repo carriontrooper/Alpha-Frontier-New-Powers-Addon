@@ -6,140 +6,329 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Apollo Institute
   rotate: false
-  xy: 4, 750
+  xy: 4, 736
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Ares Institute
   rotate: false
-  xy: 4, 492
+  xy: 4, 478
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Arms Factory
   rotate: false
-  xy: 262, 750
+  xy: 262, 736
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Athena Institute
   rotate: false
-  xy: 4, 234
+  xy: 4, 220
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Conscription Quarters
   rotate: false
-  xy: 262, 492
+  xy: 262, 478
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Digital Economy
   rotate: false
-  xy: 520, 750
+  xy: 520, 736
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Hephaestus Institute
   rotate: false
-  xy: 520, 492
+  xy: 520, 478
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Military Contractor Office
   rotate: false
-  xy: 778, 750
+  xy: 778, 736
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 BuildingIcons/Plutus Institute
   rotate: false
-  xy: 1036, 750
+  xy: 1036, 736
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
+ImprovementIcons/First Ring Coastal Dome
+  rotate: false
+  xy: 198, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/First Ring Economic Dome
+  rotate: false
+  xy: 778, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/First Ring Hydroponic Dome
+  rotate: false
+  xy: 886, 370
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/First Ring Industrial Dome
+  rotate: false
+  xy: 1036, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/First Ring Research Dome
+  rotate: false
+  xy: 1144, 628
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/First Ring Residential Dome
+  rotate: false
+  xy: 1294, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Second Ring Coastal Dome
+  rotate: false
+  xy: 1510, 886
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Second Ring Economic Dome
+  rotate: false
+  xy: 414, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Second Ring Fortress Dome
+  rotate: false
+  xy: 1510, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Second Ring Hydroponic Dome
+  rotate: false
+  xy: 1618, 886
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Second Ring Industrial Dome
+  rotate: false
+  xy: 522, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Second Ring Research Dome
+  rotate: false
+  xy: 1618, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Second Ring Residential Dome
+  rotate: false
+  xy: 1726, 886
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Solar Farm
   rotate: false
-  xy: 198, 126
+  xy: 1726, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Third Ring Coastal Dome
+  rotate: false
+  xy: 1834, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Third Ring Economic Dome
+  rotate: false
+  xy: 1942, 886
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Third Ring Fortress Dome
+  rotate: false
+  xy: 1942, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Third Ring Hydroponic Dome
+  rotate: false
+  xy: 198, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Third Ring Industrial Dome
+  rotate: false
+  xy: 306, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Third Ring Research Dome
+  rotate: false
+  xy: 414, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Third Ring Residential Dome
+  rotate: false
+  xy: 522, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Cradian Federation
   rotate: false
-  xy: 4, 40
+  xy: 4, 26
   size: 186, 186
   orig: 186, 186
   offset: 0, 0
   index: -1
+NationIcons/Helios Megapolity
+  rotate: false
+  xy: 1402, 886
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kruger-Gurevitch Ventures
+  rotate: false
+  xy: 306, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/New Astria Extraterrestrial Company
   rotate: false
-  xy: 520, 234
+  xy: 520, 220
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 NationIcons/Northland People's United Front
   rotate: false
-  xy: 778, 492
+  xy: 778, 478
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
+NationIcons/Saturnus Federation
+  rotate: false
+  xy: 1402, 778
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Shamsy Electric Technologies
   rotate: false
-  xy: 1294, 900
+  xy: 630, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Solar Farm
   rotate: false
-  xy: 886, 456
+  xy: 1036, 484
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Flying Arsenal
   rotate: false
-  xy: 4, 4
+  xy: 778, 226
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mnewer Attack Mecha
   rotate: false
-  xy: 778, 348
+  xy: 994, 442
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+UnitIcons/Dome Colonizer
+  rotate: false
+  xy: 778, 370
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Enceladus Satellite
+  rotate: false
+  xy: 1294, 886
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Flying Arsenal
   rotate: false
-  xy: 262, 234
+  xy: 262, 220
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
 UnitIcons/Mnewer Attack Mecha
   rotate: false
-  xy: 1036, 642
+  xy: 886, 262
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Renoster Tank
+  rotate: false
+  xy: 1144, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Springbok Hoverjet
+  rotate: false
+  xy: 1834, 886
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Electric Armory
   rotate: false
-  xy: 778, 384
+  xy: 1036, 628
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
