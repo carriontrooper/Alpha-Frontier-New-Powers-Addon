@@ -28,7 +28,7 @@ ammonia crystallizer
 		"food": 3,
 		"production": 2,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food] from [Phostlite] tiles [in this city]"],
+		"uniques": ["[+1 Food] from [Phostlite] tiles [in this city]","[+1 Food] from every [Scientist]"],
 		"requiredTech": "Offworld Industries",
 		"civilopediaText": [
 			{
