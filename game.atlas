@@ -319,21 +319,21 @@ TileSets/FantasyHex/Tiles/Third Ring Economic Dome
   orig: 32, 40
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/First Ring Hydroponics Dome
+TileSets/FantasyHex/Tiles/First Ring Hydroponic Dome
   rotate: false
   xy: 994, 456
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Second Ring Hydroponics Dome
+TileSets/FantasyHex/Tiles/Second Ring Hydroponic Dome
   rotate: false
   xy: 994, 456
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Third Ring Hydroponics Dome
+TileSets/FantasyHex/Tiles/Third Ring Hydroponic Dome
   rotate: false
   xy: 994, 456
   size: 32, 40
