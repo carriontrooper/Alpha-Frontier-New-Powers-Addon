@@ -123,12 +123,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/First Ring Residential Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -199,12 +199,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/First Ring Coastal Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -254,12 +254,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/First Ring Hydroponic Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -306,12 +306,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/First Ring Industrial Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -364,12 +364,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/First Ring Economic Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -424,12 +424,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/First Ring Research Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -520,12 +520,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Second Ring Residential Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -597,12 +597,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Second Ring Coastal Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -653,12 +653,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Second Ring Hydroponic Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -706,12 +706,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Second Ring Industrial Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -765,12 +765,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Second Ring Economic Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -826,12 +826,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Second Ring Research Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -880,12 +880,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Second Ring Fortress Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -973,12 +973,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Third Ring Residential Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -1049,12 +1049,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Third Ring Coastal Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -1106,12 +1106,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Third Ring Hydroponic Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -1160,12 +1160,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Third Ring Industrial Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -1220,12 +1220,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Third Ring Economic Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -1282,12 +1282,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Third Ring Research Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
@@ -1337,12 +1337,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+			
 			{
-				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
+				"extraImage": "TileSets/FantasyHex/Tiles/Third Ring Fortress Dome",
 				"imageSize": 64
 			},
-			*/
+			
 			{
 				"Separator": true
 			},
