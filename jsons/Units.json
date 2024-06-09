@@ -137,7 +137,7 @@
 			//"Founds a new city <by consuming this unit> <within [7] tiles of a [{your} {City center}]> <after [10] turns>",
 			"Founds a new city <by consuming this unit> <when below [1] [Dome City Count]>",
 			"Founds a new city <by consuming this unit> <within [6] tiles of a [{your} {City center}]> <when above [0] [Dome City Count]>",
-			"Comment[Can found a new city anywhere if you haven't built one yet, otherwise can only found a city within 6 tiles of an owned city center]",
+			"Comment["Can found a new city anywhere if you haven't built one yet, otherwise can only found a city within 6 tiles of an owned city center"]",
 			//"Limited to [6] per Civilization",
 			//"Can only be built <when below [7] [Dome City Count]>",
 			//"Only available <when below [7] [Dome City Count]> <in cities with at least [2] [Population]>",
