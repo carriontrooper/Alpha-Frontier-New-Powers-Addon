@@ -283,10 +283,10 @@
 		"startBias": ["Plains"],
 		"personality": "Military-Industrial Megacorp",
 		"preferredVictoryType":"Domination",
-		/*
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
-		*/
+		
+		"startIntroPart1": "Greetings, CEO Josef Kruger of the Kruger-Gurevitch Ventures. You started your company after the collapse of Old Earth, allying with the Gurevitch corporation to make South Africa prosperous again. Through your keen big game hunter instincts, you've gained plenty of military-industrial capital for your company. And yet, your love for challenging hunts has made you yearn for more - and there is more in the new, alien wilds of new worlds...",
+		"startIntroPart2": "Kruger, your hunter's instincts has brought you to this new world. Will you hunt the most dangerous game in this planet? Can you build a colony that stands the test of time?",
+		
 		"declaringWar": "It is time to hunt the most dangerous game - you.",
 		"attacked": "Do you realize who you've struck against, you animal?!",
 		"defeated": "So, the hunter has become the hunted... well done.",
@@ -346,10 +346,10 @@
 		"adjective": ["Cradian"],
 		"personality": "Human-purist Researcher",
 		"preferredVictoryType":"Scientific",
-		/*
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
-		*/
+		
+		"startIntroPart1": "Hail, Branden Adams, founder of the Cradian Federation. After seeing the worst humanity can do in the collapse of Old Earth, you still held hope of humanity's best. To that end, you've built up a federation of scientists and researchers who share your idea of what's best for humanity, and raised enough money to realize that dream - in the form of a seed ship to the stars.",
+		"startIntroPart2": "Adams, your vision of the best of humanity can now be realized in this new, alien world. Will you guide your people to become the shining example of humanity? Can you build a colony that stands the test of time?",
+		
 		"declaringWar": "Your nation is on a dangerous path of degeneration. Let me put it back onto the right path - professionally.",
 		"attacked": "I'll see that as an attempt to resist our righteous ideas.",
 		"defeated": "Mankind will never prosper again, as you have laid our work in ruins.",
@@ -412,10 +412,10 @@
 		"adjective": ["NPUF"],
 		"personality": "Expansionist Union",
 		"preferredVictoryType":"Domination",
-		/*
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
-		*/
+		
+		"startIntroPart1": "Zdravstvuyte, Comrade Kolya Sovolev of the Northland People's United Front! You've managed to unite what used to be bickering post-collapse warlords of the Russian and Siberian wastes into a unified and disciplined military force under your leadership. With their industrial expertise under your command, you've realized that the best path for them lay in space - and to that end, the NPUF's first and only seed ship was built.",
+		"startIntroPart2": "Comrade Sovolev, your people has their utmost faith in your leadership. Will you unite them into a glorious future in this new world? Can you build a colony that stands the test of time?",
+		
 		"declaringWar": "The people of the United Front demands war upon your lands. Be prepared.",
 		"attacked": "Your evil intentions shall not leave unpunished.",
 		"defeated": "You......!",
@@ -473,10 +473,10 @@
 		"adjective": ["NAEC"],
 		"personality": "Economic Megacorp",
 		"preferredVictoryType":"Diplomatic",
-		/*
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
-		*/
+		
+		"startIntroPart1": "Ni hao, CEO Ma Shirong of the New Astria Extraterrestial Company! Initially just another orbital habitat built after the collapse, New Astria has become a sprawling haven of merchants and bankers, becoming a well-known economical center of the Solar system. The company you've started there made profits off speculating on the economy of seed ship projects and the planets they land on, and so it is no surprise that the NAEC ventured to build one of their own.",
+		"startIntroPart2": "CEO Shirong, your shareholders and employees expect your endeavor to be profitable. Will you reach new heights of prosperity in this new world? Can you build a colony that stands the test of time?",
+		
 		"declaringWar": "The Board of Directors have come to a conclusion that appeasement is no longer an option.",
 		"attacked": "Returning to old barbaric ways is not a sustainable business. We'll teach you why.",
 		"defeated": "Do you animals have no shame, revelling in all your barbarism?",
