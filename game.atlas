@@ -279,147 +279,154 @@ NationIcons/Shamsy Electric Technologies
   index: -1
 TileSets/FantasyHex/Tiles/First Ring Coastal Dome
   rotate: false
-  xy: 738, 198
+  xy: 738, 162
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Second Ring Coastal Dome
   rotate: false
-  xy: 738, 198
+  xy: 738, 162
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Third Ring Coastal Dome
   rotate: false
-  xy: 738, 198
+  xy: 738, 162
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/First Ring Economic Dome
   rotate: false
-  xy: 738, 150
+  xy: 994, 456
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Second Ring Economic Dome
   rotate: false
-  xy: 738, 150
+  xy: 994, 456
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Third Ring Economic Dome
   rotate: false
-  xy: 738, 150
+  xy: 994, 456
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/First Ring Hydroponic Dome
   rotate: false
-  xy: 994, 456
+  xy: 1252, 714
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Second Ring Hydroponic Dome
   rotate: false
-  xy: 994, 456
+  xy: 1252, 714
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Third Ring Hydroponic Dome
   rotate: false
-  xy: 994, 456
+  xy: 1252, 714
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/First Ring Industrial Dome
   rotate: false
-  xy: 1252, 714
+  xy: 4, 4
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Second Ring Industrial Dome
   rotate: false
-  xy: 1252, 714
+  xy: 4, 4
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Third Ring Industrial Dome
   rotate: false
-  xy: 1252, 714
+  xy: 4, 4
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/First Ring Research Dome
   rotate: false
-  xy: 4, 4
+  xy: 886, 240
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Second Ring Research Dome
   rotate: false
-  xy: 4, 4
+  xy: 886, 240
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Third Ring Research Dome
   rotate: false
-  xy: 4, 4
+  xy: 886, 240
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/First Ring Residential Dome
   rotate: false
-  xy: 886, 240
+  xy: 738, 114
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Second Ring Residential Dome
   rotate: false
-  xy: 886, 240
+  xy: 738, 114
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Third Ring Residential Dome
   rotate: false
-  xy: 886, 240
+  xy: 738, 114
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Second Ring Fortress Dome
   rotate: false
-  xy: 778, 132
+  xy: 994, 408
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Third Ring Fortress Dome
   rotate: false
-  xy: 778, 132
+  xy: 994, 408
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Solar Farm
   rotate: false
-  xy: 994, 420
+  xy: 1252, 678
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dome Colonizer
+  rotate: false
+  xy: 738, 210
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -440,14 +447,14 @@ TileSets/FantasyHex/Units/Mnewer Attack Mecha
   index: -1
 TileSets/FantasyHex/Units/Renoster Tank
   rotate: false
-  xy: 738, 114
+  xy: 778, 144
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Springbok Hoverjet
   rotate: false
-  xy: 1252, 678
+  xy: 44, 16
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
