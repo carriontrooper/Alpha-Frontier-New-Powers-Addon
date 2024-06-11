@@ -477,7 +477,7 @@
 			//"Cannot be built on [All] tiles <with [1] to [6] neighboring [City center] tiles>",
 			//"Cannot be built on [All] tiles <in tiles adjacent to [City center]>",
 			"Unbuildable <in tiles adjacent to [City center]>",
-			//"Unbuildable <in tiles adjacent to []>",
+			"Unbuildable <in tiles not adjacent to [1st Ring District]>",
 			"[+1 Food] <after adopting [Feed the World]>",
 			"[+1 Food] <after adopting [Eco Harmony]>",
 			"[+1 Gold] <after discovering [Colony Administration]>",
