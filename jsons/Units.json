@@ -73,7 +73,7 @@
 			"[-50]% Strength <vs [Air] units>",
 			"[+50]% Strength <vs [Armored] units>",
 			"[+10]% Strength bonus for [Infantry] units within [2] tiles",
-			"May withdraw before melee ([60]%)",
+			"Withdraws before melee combat <with [60]% chance>",
 			"Consumes [1] [Titanium]",
 			"Can only be built <with [Titanium]>",
 			"Can upgrade to [Cyberheli]",
