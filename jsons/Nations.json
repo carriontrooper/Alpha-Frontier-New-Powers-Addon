@@ -98,9 +98,8 @@
 		"uniqueName": "Glorious Ecumenopolis",
 		"uniques": [
 			"May not annex cities",
-			//"Cannot build [Colonizer] units",
-			//"Provides [6] [Dome Colonizer Count] <hidden from users>",
 			"Cannot build [Dome Colonizer] units <if [Dome Colonizer Stopper] is constructed> <hidden from users>",
+			"Remove [Dome Colonizer Stopper] [in capital] <when below [6] [[Dome City Counter] Buildings]> <hidden from users>",
 			"Comment [Can only build 6 Dome Colonizer units]",
 			"Comment [Can make districts around a Dome City]",
 			//"Starts with [Hab-Domes]",
