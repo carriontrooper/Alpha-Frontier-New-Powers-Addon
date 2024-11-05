@@ -228,7 +228,6 @@ ammonia crystallizer
 			"Cannot be purchased",
 			"Unsellable",
 			"Automatically built in all cities where it is buildable",
-			//"Provides [1] [Dome City Count]",
 			"Destroyed when the city is captured", //so that other civs can't have the resource
 			"Will not be displayed in Civilopedia"
 		]
@@ -243,12 +242,10 @@ ammonia crystallizer
 			"Can only be built <in [Capital] cities>",
 			"Can only be built <in [Helios Megapolity] cities>",
 			"Can only be built <if [Dome City Counter] is constructed in at least [6] of [{non-[Annexed]} {non-[Puppeted]}] cities>",
-			"Unavailable <if [Dome Colonizer Stopper] is constructed>"
+			"Unavailable <if [Dome Colonizer Stopper] is constructed>",
 			"Cannot be purchased",
 			"Unsellable",
 			"Automatically built in all cities where it is buildable",
-			//"Provides [1] [Dome City Count]",
-			//"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
 		]
 	}
