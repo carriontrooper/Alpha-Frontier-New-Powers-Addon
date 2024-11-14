@@ -99,7 +99,7 @@
 		"uniques": [
 			"May not annex cities",
 			"Cannot build [Dome Colonizer] units <if [Dome Colonizer Stopper] is constructed> <hidden from users>",
-			"Remove [Dome Colonizer Stopper] [in capital] <when below [6] [[Dome City Counter] Buildings]> <hidden from users>",
+			"Remove [Dome Colonizer Stopper] [in capital] <when number of [[Dome City Counter] Buildings] is less than [6]> <hidden from users>",
 			"Comment [Can only build 6 Dome Colonizer units]",
 			"Comment [Can make districts around a Dome City]",
 			//"Starts with [Hab-Domes]",
