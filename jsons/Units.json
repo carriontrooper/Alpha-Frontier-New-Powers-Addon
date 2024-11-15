@@ -134,11 +134,13 @@
 		"cost": 106,
 		"uniques": [
 			"Unavailable <if [Dome Colonizer Stopper] is constructed>",
-			"Founds a new city <by consuming this unit> <when below [1] [Dome City Count]> <when number of [[Dome Colonizer Stopper] Buildings] is less than [1]>",
+			"Founds a new city <by consuming this unit> <when below [1] [Dome City Count]>",
+			"Founds a new city <by consuming this unit> <within [6] tiles of a [{your} {City center}]> <when between [0] and [6] [Dome City Count]>",
+			
 			//"Founds a new city <by consuming this unit> <when number of [[Dome City Counter] Buildings] is less than [1]> <when number of [[Dome Colonizer Stopper] Buildings] is less than [1]>",
 			//"Founds a new city <by consuming this unit> <within [6] tiles of a [{your} {City center}]> <if [Dome City Counter] is constructed in at least [1] of [Your] cities>",
 			//"Founds a new city <by consuming this unit> <within [6] tiles of a [{your} {City center}]> <when above [0] [Dome City Count]>",
-			"Founds a new city <by consuming this unit> <within [6] tiles of a [{your} {City center}]> <when between [0] and [6] [Dome City Count]> <when number of [[Dome Colonizer Stopper] Buildings] is less than [1]>",
+			
 			"Can build [Habitation Dome] improvements on tiles <when number of [[Dome Colonizer Stopper] Buildings] is more than [0]>",
 			"Comment [Can found a new city anywhere if you haven't built one yet - otherwise can only found a city within 6 tiles of an owned city center]",
 			"Excess Food converted to Production when under construction",
