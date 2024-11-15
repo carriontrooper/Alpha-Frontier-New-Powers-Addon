@@ -227,6 +227,7 @@ ammonia crystallizer
 			"Can only be built <in [Helios Megapolity] cities>"
 			"Cannot be purchased",
 			"Unsellable",
+			"Provides [1] [Dome City Count]",
 			"Automatically built in all cities where it is buildable",
 			"Destroyed when the city is captured", //so that other civs can't have the resource
 			"Will not be displayed in Civilopedia"
