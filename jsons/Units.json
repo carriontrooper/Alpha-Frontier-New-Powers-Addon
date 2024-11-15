@@ -135,7 +135,7 @@
 		"uniques": [
 			"Unavailable <if [Dome Colonizer Stopper] is constructed>",
 			"Founds a new city <by consuming this unit> <when number of [[Dome City Counter] Buildings] is less than [1]>",
-			"Founds a new city <by consuming this unit> <within [6] tiles of a [{your} {City center}]> <if [Dome City Counter] is constructed>",
+			"Founds a new city <by consuming this unit> <within [6] tiles of a [{Your} {City center}]> <if [Dome City Counter] is constructed in at least [1] of [Your] cities>",
 			"Comment [Can found a new city anywhere if you haven't built one yet - otherwise can only found a city within 6 tiles of an owned city center]",
 			"Excess Food converted to Production when under construction",
 			"Requires at least [2] population"
