@@ -369,7 +369,7 @@
 			"[+1 Culture] from every [Influencer]",
 			"[+1 Production] from every [Engineer]",
 			"[+1 Happiness, +2 Production] <in cities with at least [2] [Specialists]>",
-			"New [Military] units start with [10] Experience [in all cities]",
+			"New [Military] units start with [10] XP [in all cities]",
 			"[Gold] cost of purchasing [All] units [+20]%"
 		],
 		"cities": [
