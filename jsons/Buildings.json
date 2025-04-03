@@ -44,7 +44,7 @@ ammonia crystallizer
 		"maintenance": 1,
 		"uniques": [
 			"Military",
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
 			"Destroyed when the city is captured",
 			"[Gold] cost of purchasing [Military] units [-30]% <in this city>"
 		],
@@ -85,8 +85,8 @@ ammonia crystallizer
 		"uniques": [
 			"Military",
 			"Prefab",
-			"New [Infantry] units start with [15] Experience [in this city]",
-			"New [Stealth Infantry] units start with [15] Experience [in this city]",
+			"New [Infantry] units start with [15] XP [in this city]",
+			"New [Stealth Infantry] units start with [15] XP [in this city]",
 			"[+30]% Production when constructing [Infantry] units [in this city]",
 			"Destroyed when the city is captured"
 		],
@@ -107,8 +107,8 @@ ammonia crystallizer
 		"uniques": [
 			"Comment [Enables you to build Armored and Mech units]",
 			"Military",
-			"New [Armored] units start with [15] Experience [in this city]",
-			//"New [Mech] units start with [15] Experience [in this city]",
+			"New [Armored] units start with [15] XP [in this city]",
+			//"New [Mech] units start with [15] XP [in this city]",
 			"Destroyed when the city is captured",
 			"[+30]% Production when constructing [Military] units [in this city]"
 		],
