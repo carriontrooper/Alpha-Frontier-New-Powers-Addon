@@ -431,6 +431,13 @@ TileSets/FantasyHex/Units/Dome Colonizer
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Dome Expansion Colonizer
+  rotate: false
+  xy: 738, 210
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Flying Arsenal
   rotate: false
   xy: 1036, 510
@@ -460,6 +467,13 @@ TileSets/FantasyHex/Units/Springbok Hoverjet
   offset: 0, 0
   index: -1
 UnitIcons/Dome Colonizer
+  rotate: false
+  xy: 1036, 654
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Dome Expansion Colonizer
   rotate: false
   xy: 1036, 654
   size: 100, 100
