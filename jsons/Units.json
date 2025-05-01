@@ -168,7 +168,8 @@
 		"cost": 106,
 		"uniques": [
 			"Unavailable <if [Dome Colonizer Stopper] is constructed>",
-			"Founds a new city <by consuming this unit> <within [6] tiles of a [{your} {City center}]>",
+			//"Founds a new city <by consuming this unit> <within [6] tiles of a [{your} {City center}]>",
+			"Founds a new city <by consuming this unit> <within [6] tiles of a [{Helios Megapolity} {City center}]>",
 
 			"Can build [Habitation Dome] improvements on tiles <when number of [[Dome Colonizer Stopper] Buildings] is more than [0]>",
 			"Comment [Can only found a city within 6 tiles of an owned city center]",
