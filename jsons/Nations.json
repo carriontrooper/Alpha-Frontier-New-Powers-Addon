@@ -27,6 +27,7 @@
 		"neutralHello": ".",
 		"hateHello": ".",
 
+		"denounced": ".",
 		"tradeRequest": ".",
 
 		"outerColor": [85, 85, 85],
@@ -90,6 +91,7 @@
 		"neutralHello": "Ah, if it isn't the neighbor. What news do you bring of the world outside?",
 		"hateHello": "Tell me why should I risk such indignation by talking to you?",
 
+		"denounced": "Hmph! Words from an envious bumpkin.",
 		"tradeRequest": "Our glorious city is willing to trade its goods for yours.",
 
 		"outerColor": [4, 72, 189],
@@ -164,6 +166,7 @@
 		"neutralHello": "You are in the presence of Seth and the Shamsy Electric Technologies. Speak.",
 		"hateHello": "So you do have the guts to contact me after all.",
 
+		"denounced": "Watch your words, I will stuff them down your mouth next time.",
 		"tradeRequest": "I am in the mood for some trade, let us keep it that way.",
 
 		"outerColor": [230, 129, 21],
@@ -230,6 +233,7 @@
 		"neutralHello": "Good day.",
 		"hateHello": "Ah. You again.",
 
+		"denounced": "That is a cold statement from you.",
 		"tradeRequest": "Would you like to trade with what we've harvested?.",
 
 		"outerColor": [27, 92, 40],
@@ -295,6 +299,7 @@
 		"neutralHello": "Neighbor! Fancy of you to visit me.",
 		"hateHello": "Hrm, speak quickly before I change my mind.",
 
+		"denounced": "Ah, you must be envious of my trophies.",
 		"tradeRequest": "What do you think of these deals, eh?",
 
 		"outerColor": [49, 61, 30],
@@ -358,6 +363,7 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "I do not trust you.",
 
+		"denounced": "We would rather have our differences in views be dealt with in the debate halls, instead of this childish provocation.",
 		"tradeRequest": "I believe this will bring us all a step further to a brighter future.",
 
 		"outerColor": [30, 136, 229],
@@ -424,6 +430,7 @@
 		"neutralHello": "The people of the United Front are listening.",
 		"hateHello": "My people do not welcome you, enemy. But I'll let you speak.",
 
+		"denounced": "You are not the first to hate us, nor will you be the last.",
 		"tradeRequest": "Here are my people's demands. Make a wise decision.",
 
 		"outerColor": [86, 92, 78],
@@ -485,6 +492,7 @@
 		"neutralHello": "Welcome. Would you like a cup of tea while we discuss?",
 		"hateHello": "There you are. Let me prepare you some po... I mean tea.",
 
+		"denounced": "Oops, did we raise too much tariffs against you?",
 		"tradeRequest": "Let's trade in a civilized way.",
 
 		"outerColor": [255, 172, 18],
