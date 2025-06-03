@@ -28,6 +28,7 @@
 		"hateHello": ".",
 
 		"denounced": ".",
+		"declaringFriendship": ".",
 		"tradeRequest": ".",
 
 		"outerColor": [85, 85, 85],
@@ -92,6 +93,7 @@
 		"hateHello": "Tell me why should I risk such indignation by talking to you?",
 
 		"denounced": "Hmph! Words from an envious bumpkin.",
+		"declaringFriendship": "I say, your city's not too bad either. Shall we declare our capitals sister cities?",
 		"tradeRequest": "Our glorious city is willing to trade its goods for yours.",
 
 		"outerColor": [4, 72, 189],
@@ -166,7 +168,8 @@
 		"neutralHello": "You are in the presence of Seth and the Shamsy Electric Technologies. Speak.",
 		"hateHello": "So you do have the guts to contact me after all.",
 
-		"denounced": "Watch your words, I will stuff them down your mouth next time.",
+		"denounced": "Watch your words, I will force them down your mouth next time.",
+		"declaringFriendship": "You have done well to placate me, I shall deign to play along for now.",
 		"tradeRequest": "I am in the mood for some trade, let us keep it that way.",
 
 		"outerColor": [230, 129, 21],
@@ -234,6 +237,7 @@
 		"hateHello": "Ah. You again.",
 
 		"denounced": "That is a cold statement from you.",
+		"declaringFriendship": "What warm heart you have. 'Friend' is a rare, valuable word to us, and we consider you one.",
 		"tradeRequest": "Would you like to trade with what we've harvested?.",
 
 		"outerColor": [27, 92, 40],
@@ -300,6 +304,7 @@
 		"hateHello": "Hrm, speak quickly before I change my mind.",
 
 		"denounced": "Ah, you must be envious of my trophies.",
+		"declaringFriendship": "My respect for a fellow hunter like you must be declared! Now let's go on a safari together!",
 		"tradeRequest": "What do you think of these deals, eh?",
 
 		"outerColor": [49, 61, 30],
@@ -364,6 +369,7 @@
 		"hateHello": "I do not trust you.",
 
 		"denounced": "We would rather have our differences in views be dealt with in the debate halls, instead of this childish provocation.",
+		"declaringFriendship": "Whether or not we see eye-to-eye, we are willing to learn from one another.",
 		"tradeRequest": "I believe this will bring us all a step further to a brighter future.",
 
 		"outerColor": [30, 136, 229],
@@ -431,6 +437,7 @@
 		"hateHello": "My people do not welcome you, enemy. But I'll let you speak.",
 
 		"denounced": "You are not the first to hate us, nor will you be the last.",
+		"declaringFriendship": "My people think highly of granting you an associate status.",
 		"tradeRequest": "Here are my people's demands. Make a wise decision.",
 
 		"outerColor": [86, 92, 78],
@@ -493,6 +500,7 @@
 		"hateHello": "There you are. Let me prepare you some po... I mean tea.",
 
 		"denounced": "Oops, did we raise too much tariffs against you?",
+		"declaringFriendship": "We consider you a valuable trade partner - but shall we take this to the next level?",
 		"tradeRequest": "Let's trade in a civilized way.",
 
 		"outerColor": [255, 172, 18],
