@@ -103,6 +103,13 @@
 		"declaringFriendship": "I say, your city's not too bad either. Shall we declare our capitals sister cities?",
 		"tradeRequest": "Our glorious city is willing to trade its goods for yours.",
 
+		"neutralDenouncing": "Apologies, it seems that you've been acting a bit... rural, for our taste.",
+		"hateDenouncing": "I loathe to even talk to an unkempt lout of a barbarian like you, but my distaste of you must be known!",
+		
+		"acceptingDemand": "Yes, this suits us.",
+		"neutralRejectingDemand": "No, our city do not need this.",
+		"hateRejectingDemand": "Our city definitely do not need this.",
+
 		"outerColor": [4, 72, 189],
 		"innerColor": [255, 221, 0],
 		"favoredReligion": "Solar Mass",
@@ -179,6 +186,13 @@
 		"declaringFriendship": "You have done well to placate me, I shall deign to play along for now.",
 		"tradeRequest": "I am in the mood for some trade, let us keep it that way.",
 
+		"neutralDenouncing": "I no longer find you amusing.",
+		"hateDenouncing": "Let my displeasure be heard, you mangy beast.",
+		
+		"acceptingDemand": "To this, I agree.",
+		"neutralRejectingDemand": "No, I am not in the mood for this.",
+		"hateRejectingDemand": "The fool thinks this is a good time to test my patience. Never.",
+
 		"outerColor": [230, 129, 21],
 		"innerColor": [245, 199, 47],
 		"favoredReligion": "Astral Pantheon",
@@ -247,6 +261,13 @@
 		"declaringFriendship": "What warm heart you have. 'Friend' is a rare, valuable word to us, and we consider you one.",
 		"tradeRequest": "Would you like to trade with what we've harvested?.",
 
+		"neutralDenouncing": "For some reason or another, we feel the need to isolate ourselves from you.",
+		"hateDenouncing": "Go away, you ruiner of fields, wilter of crops.",
+		
+		"acceptingDemand": "This is fine.",
+		"neutralRejectingDemand": "This won't help us, nor the crops.",
+		"hateRejectingDemand": "Stop this, before you make the crops rot.",
+
 		"outerColor": [27, 92, 40],
 		"innerColor": [161, 237, 236],
 		"favoredReligion": "Astral Pantheon",
@@ -314,6 +335,13 @@
 		"declaringFriendship": "My respect for a fellow hunter like you must be declared! Now let's go on a safari together!",
 		"tradeRequest": "What do you think of these deals, eh?",
 
+		"neutralDenouncing": "Seems like I'll have to cancel that safari arrangement with you. And some other things as well.",
+		"hateDenouncing": "I've heard that your reputation's gone into the dirt. Well, not everyone can be as marvelous as me. You've made it very obvious.",
+		
+		"acceptingDemand": "Splendid! Let us hunt in celebration!",
+		"neutralRejectingDemand": "I don't think it would look good to me.",
+		"hateRejectingDemand": "That's enough from you, who don't even understand the thrill of the hunt.",
+
 		"outerColor": [49, 61, 30],
 		"innerColor": [247, 78, 0],
 		"favoredReligion": "Astral Pantheon",
@@ -378,6 +406,13 @@
 		"denounced": "We would rather have our differences in views be dealt with in the debate halls, instead of this childish provocation.",
 		"declaringFriendship": "Whether or not we see eye-to-eye, we are willing to learn from one another.",
 		"tradeRequest": "I believe this will bring us all a step further to a brighter future.",
+
+		"neutralDenouncing": "Trust is hard to come by, and what you did squandered my trust in you.",
+		"hateDenouncing": "I thought I could enlighten you like a human. How wrong I am.",
+		
+		"acceptingDemand": "Acceptable.",
+		"neutralRejectingDemand": "No, for various reasons I'm sure you understand.",
+		"hateRejectingDemand": "I seriously cannot agree to this for reasons beyond your puny mind to understand.",
 
 		"outerColor": [30, 136, 229],
 		"innerColor": [255, 255, 255],
@@ -447,6 +482,13 @@
 		"declaringFriendship": "My people think highly of granting you an associate status.",
 		"tradeRequest": "Here are my people's demands. Make a wise decision.",
 
+		"neutralDenouncing": "You've fallen out of favor with the people. Pray you'll regain it.",
+		"hateDenouncing": "Know that your evil ways shall not erode the unity of my people!",
+		
+		"acceptingDemand": "The people accept.",
+		"neutralRejectingDemand": "The people do not accept.",
+		"hateRejectingDemand": "Anyone can see that this is unacceptable.",
+
 		"outerColor": [86, 92, 78],
 		"innerColor": [255, 160, 0],
 		"favoredReligion": "Posadist",
@@ -509,6 +551,13 @@
 		"denounced": "Oops, did we raise too much tariffs against you?",
 		"declaringFriendship": "We consider you a valuable trade partner - but shall we take this to the next level?",
 		"tradeRequest": "Let's trade in a civilized way.",
+
+		"neutralDenouncing": "Sorry, but associating with you has caused business to suffer, so we have to cut ties.",
+		"hateDenouncing": "Ah, there they are, the epitome of bad business themselves. May your credit rating drop like a rock, haha!",
+		
+		"acceptingDemand": "Ah yes, this is a good deal.",
+		"neutralRejectingDemand": "Hmm... no, this will not be profitable.",
+		"hateRejectingDemand": "This has no profits for both of us! Do you not have a lick of economic sense in your head?",
 
 		"outerColor": [255, 172, 18],
 		"innerColor": [253, 255, 153],
