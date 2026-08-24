@@ -146,6 +146,7 @@
 			//"Founds a new city <by consuming this unit> <within [6] tiles of a [{your} {City center}]> <when above [0] [Dome City Count]>",
 			
 			"Can build [Habitation Dome] improvements on tiles <when number of [[Dome Colonizer Stopper] Buildings] is more than [0]>",
+			"Can transform to [Dome Expansion Colonizer] <when number of [[Dome City Counter] Buildings] is more than [0]>",
 			"Comment [Can found a new city anywhere if you haven't built one yet]",
 			"Excess Food converted to Production when under construction",
 			"Requires at least [2] population"
